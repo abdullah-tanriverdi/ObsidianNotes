@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4436f1488abd98b9",
+        "id": "e3cd07272cd7053a",
         "type": "tabs",
         "children": [
           {
-            "id": "47f3655fe6b093cc",
+            "id": "d752329e53977247",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47f3655fe6b093cc",
+  "active": "d752329e53977247",
   "lastOpenFiles": [
+    "Yazılım/Android/Android'in Tarihi ve Gelişimi/Android'in Tarihi ve Gelişimi.md",
+    "Yazılım/Android/Android'e Giriş/Android'e Giriş.md",
+    "Yazılım/Android/aa",
+    "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
+    "Yazılım/Android/Android'in Tarihi ve Gelişimi",
+    "Todo1.md",
+    "Yazılım/Android/Android'e Giriş",
     "Günlük Notlarım",
     "Yeni klasör"
   ]
