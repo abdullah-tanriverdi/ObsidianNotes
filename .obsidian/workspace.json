@@ -11,11 +11,38 @@
             "id": "d752329e53977247",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd446805c8987eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff7b979f4a41dbd0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dosyalar/LarsBak_KasperLund.jpg"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md"
+              }
             }
           }
         ]
@@ -138,16 +169,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d752329e53977247",
+  "active": "cd446805c8987eea",
   "lastOpenFiles": [
-    "Yazılım/Android/Android'in Tarihi ve Gelişimi/Android'in Tarihi ve Gelişimi.md",
-    "Yazılım/Android/Android'e Giriş/Android'e Giriş.md",
-    "Yazılım/Android/aa",
+    "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Logo0.png",
+    "Yazılım/Programlama Dilleri/Dart/Untitled",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/LarsBak_KasperLund.jpg",
     "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
-    "Yazılım/Android/Android'in Tarihi ve Gelişimi",
-    "Todo1.md",
-    "Yazılım/Android/Android'e Giriş",
-    "Günlük Notlarım",
-    "Yeni klasör"
+    "Pasted image 20241002001944.jpg",
+    "Pasted image 20241002001909.png",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/dart_logo1.png",
+    "Günlük Notlar.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi/Android'in Tarihi ve Gelişimi.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş/Android'e Giriş.md",
+    "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Dosyalar/BigONotasyonlarınKarsilastirmalari.jpg",
+    "Class-Based.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Nedir",
+    "Yazılım/Mobil Geliştirme/Ios Geliştirme Swift & Objective C",
+    "Yazılım/Mobil Geliştirme/Ios İşletim Sistemi",
+    "Yazılım/Mobil Geliştirme/Android Ve Ios Geliştirme Dart & Flutter",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin & Java",
+    "Yazılım/Framework/Flutter",
+    "Yazılım/Framework",
+    "Yazılım/Mobil Geliştirme/Ios İşletim Sistemi",
+    "Todo1.md"
   ]
 }

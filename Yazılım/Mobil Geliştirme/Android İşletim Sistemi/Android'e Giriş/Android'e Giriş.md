@@ -1,5 +1,3 @@
-#Yazılım #Android #AndroideGiriş
-
 Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için Java ve Kotlin programlama dillerini kullanılabilir.
 <br>
 
@@ -42,7 +40,8 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 > [!tip] İPUCU
 > Android SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[Todo4]]
 
-<br>
+---
+
 Özetle, Android işletim sistemi, açık kaynaklı yapısı, geniş geliştirici topluluğu ve kapsamlı araçlarıyla mobil dünyada güçlü bir konuma sahiptir. Java ve Kotlin gibi dillerin yanı sıra Android Studio ve Android SDK, geliştiricilere kullanıcı dostu ve yenilikçi uygulamalar oluşturma imkanı sunar. Dalvik VM’den ART’ye geçiş, Android’in performansını ve verimliliğini artırırken, bu platformun esnek yapısı farklı cihaz ve platformlara uyum sağlamayı mümkün kılar.
 
 ***Abdullah TANRIVERDİ***

@@ -1,1 +1,0 @@
-#Yazılım #Android #AndroidTarihçesi 
