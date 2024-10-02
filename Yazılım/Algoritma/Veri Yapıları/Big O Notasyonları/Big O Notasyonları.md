@@ -1,3 +1,4 @@
+#Yazılım #Algoritma #VeriYapıları
 Yazılım geliştirme dünyasında, algoritmaların performansını değerlendirmek kritik öneme sahiptir. Bu değerlendirmelerin çoğu Big O notasyonu kullanılarak yapılır. Big O notasyonu, algortimaların zaman ve mekan karmaşıklığını analiz etmek için kullanılan matematiksel bir araçtır. 
 
 Büyük O gösterimi algoritmaların en kötü durum performansını temsil eder. Algoritmaların giriş boyutu (n) arttıkça nasıl davrandığını gösterir. Bu gösterim algoritmaların ne kadar hızlı çalıştığını ve ne kadar bellek kullandıklarını anlamamıza yardımcı olur.

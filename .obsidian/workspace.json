@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "a51f15fdb696c85f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -81,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md"
               }
             }
           }
@@ -160,7 +157,9 @@
   },
   "active": "d752329e53977247",
   "lastOpenFiles": [
+    "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
@@ -171,7 +170,6 @@
     "Yazılım/Programlama Dilleri/Dart/Dart İle Hello World Programı.md",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
-    "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/HelloWorld.jpg",
     "Yazılım/Yazılım Jargonları/OOP.md",
     "Yazılım/Yazılım Jargonları/Object Orineted Programming Nedir.md",
