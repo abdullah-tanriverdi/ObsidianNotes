@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
-                "mode": "source",
+                "file": "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +160,17 @@
   },
   "active": "d752329e53977247",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
     "Pasted image 20241002131828.png",
     "Pasted image 20241002131813.png",
-    "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart İle Hello World Programı.md",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
     "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/HelloWorld.jpg",
     "Yazılım/Yazılım Jargonları/OOP.md",
@@ -176,7 +179,6 @@
     "Yazılım/Yazılım Jargonları",
     "Class-Based.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Features.png",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş/Android'e Giriş.md",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
     "Günlük Notlar.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Logo0.png",
@@ -186,7 +188,6 @@
     "Pasted image 20241002001909.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/dart_logo1.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi/Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Nedir",
     "Yazılım/Mobil Geliştirme/Ios Geliştirme Swift & Objective C",
     "Yazılım/Mobil Geliştirme/Ios İşletim Sistemi",

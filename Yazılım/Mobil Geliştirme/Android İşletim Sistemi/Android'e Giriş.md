@@ -1,4 +1,26 @@
-Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için Java ve Kotlin programlama dillerini kullanılabilir.
+#Yazılım #MobilGeliştirme #AndroidİşletimSistemi
+
+Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için belli başlı programlama dillerini kullanılabilir.
+
+
+- **Java**: Android'in ilk ve ana dilidir. Java'nın güçlü nesne yönelimli yapısı, geniş kütüphaneleri ve Android'e özgü araçlarla birleşerek uygulama geliştirme süreçlerini kolaylaştırır.
+    
+- **Kotlin**: 2017 yılında Google tarafından resmi Android dili olarak duyuruldu. Kotlin, Java'ya kıyasla daha modern, esnek ve okunabilir bir dil olup, geliştiricilere daha güvenli ve hataya dayanıklı kod yazma imkanı sunar. Kotlin ayrıca Java ile tamamen uyumludur, bu da mevcut Java projelerinde Kotlin kullanmaya başlanmasını kolaylaştırır.
+    
+- **C++**: Android NDK (Native Development Kit) aracılığıyla C++ ile uygulamalar yazmak mümkündür. Özellikle yüksek performans gerektiren oyunlar ve grafik yoğun uygulamalar geliştirilirken tercih edilir. C++ kullanımı genellikle performans optimizasyonu için yapılır, ancak uygulama yönetimi, UI ve diğer platformla ilgili kodlar Java veya Kotlin ile yazılır. 
+ <br>
+ 
+> [!tip]  İPUCU
+>  Android NDK hakkında bilgi almak için bağlantıya tıkla [[AndroidNDK]]
+<br>
+    
+- **Dart (Flutter)**: Google tarafından geliştirilen **Flutter** framework'ü, Android (ve iOS) için çapraz platform uygulama geliştirmede kullanılan bir araçtır. Dart dilini kullanır ve tek bir kod tabanıyla hem Android hem de iOS uygulamaları geliştirmeyi sağlar. Bu, daha az maliyetle daha geniş bir kitleye ulaşmayı kolaylaştırır.
+    
+- **React Native**: Facebook tarafından geliştirilen bu framework, JavaScript kullanarak Android ve iOS için çapraz platform uygulamaları oluşturmanıza olanak tanır. **React Native** ile JavaScript, HTML ve CSS bilen geliştiriciler mobil uygulama geliştirmeye geçiş yapabilirler.
+    
+- **Python**: Android uygulama geliştirmek için doğrudan desteklenmese de **Kivy** gibi kütüphaneler ile Python kullanarak Android uygulamaları geliştirmek mümkündür. Python, genellikle bilimsel hesaplamalar, yapay zeka ve hızlı prototipleme için tercih edilir.
+    
+- **C#**: Microsoft’un Xamarin teknolojisi aracılığıyla Android uygulamaları geliştirmek mümkündür. C# ile hem Android hem de iOS için çapraz platform uygulamaları geliştirebilirsiniz. Xamarin, .NET ekosisteminin avantajlarından yararlanır ve C# geliştiricilerine mobil uygulama dünyasına girmeyi kolaylaştırır.
 <br>
 
 **Android'de Java'nın Rolü:**  Android uygulama geliştirmede kullanılan en popüler programlama dillerinden biridir. Sun Microsystems tarafından 1995 yılında geliştirilen, daha sonra Oracle tarafından sahiplenilen, nesne yönelimli bir dildir. Java'nın özellikleri, Android'in temel yapı taşlarından biri olmasını sağlamıştır. Java, Android'de Dalvik ve Android Runtime(ART) sanal makineleri üzerinde çalışır. Android uygulamaları, Java kodu olarak yazılır ve bu kod, önce bytecode formatına dönüştürülür. Bytecode, Android' deki Dalvik ya da ART tarafından çalıştırılır, bu da Java'nın platform bağımsız olma özelliğinin Android cihazlarında uygulanmasını sağlar.
@@ -23,12 +45,6 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 <br>
 
 **Android Studio:** Android uygulamaları geliştirmek için kullanılan resmi entegre geliştirme ortamı(IDE)'dir. Google tarafından geliştirilen Android Studio, Android SDK (Software Development Kit) ile entegre çalışır ve geliştiricilerle kapsamlı bir geliştirme ortamı sunar. 
-
-**Android Studio'da Desteklenen diller:** 
-- **Java:** Android'in ilk ve ana dili
-- **Kotlin:** Google tarafından önerilen modern programlama dili.
-- **C++:** Oyunlar ve yüksek performans gerektiren uygulamalarda kullanılır.
-
 
 > [!tip] İPUCU
 > Android Studio hakkında daha fazla bilgi için bu bağlantıya tıkla [[Todo3]]
