@@ -11,8 +11,12 @@
             "id": "d752329e53977247",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -22,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md"
+              }
             }
           }
         ],
@@ -154,6 +162,7 @@
   "active": "d752329e53977247",
   "lastOpenFiles": [
     "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
