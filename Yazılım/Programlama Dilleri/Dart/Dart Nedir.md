@@ -27,4 +27,6 @@ Derlenmiş bir dildir ve iki tür derleme tekniği destekler:
 >[!tip] İPUCU
 >AOT ve JIT hakkında daha fazla bilgi için bağlantıya tıkla [[AOT VE JOT]]
 
+![[Dart_Features.png]]
+
 ***Abdullah TANRIVERDİ***
