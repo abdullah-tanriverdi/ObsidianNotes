@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d752329e53977247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a51f15fdb696c85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
-                "mode": "preview",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md"
               }
             }
           }
@@ -159,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d752329e53977247",
+  "active": "a51f15fdb696c85f",
   "lastOpenFiles": [
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
@@ -190,7 +180,6 @@
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/LarsBak_KasperLund.jpg",
     "Pasted image 20241002001944.jpg",
     "Pasted image 20241002001909.png",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/dart_logo1.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar",
     "Yazılım/Programlama Dilleri/Dart/Dart Nedir",
     "Yazılım/Mobil Geliştirme/Ios Geliştirme Swift & Objective C",
