@@ -198,7 +198,8 @@ void main() {
 - **Cascade Notasyonu**: `myCat` nesnesi oluşturulurken cascade notasyonu kullanıyoruz.
     - Önce `name` özelliğini `Minnoş` olarak ayarlıyoruz.
     - Ardından `age` özelliğini `2` olarak ayarlıyoruz.
-    - Son olarak, `meow` metodunu çağırarak kedimizin havlamasını sağlıyoruz.
-<br>
+    -  Son olarak, `meow` metodunu çağırarak kedimizin havlamasını sağlıyoruz.
+
+***
 
 ***Abdullah TANRIVERDİ***

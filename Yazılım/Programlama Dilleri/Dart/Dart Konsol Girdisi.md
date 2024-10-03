@@ -1,4 +1,5 @@
 #Yazılım #ProgramlamaDilleri #Dart 
+
 Dart dilinde konsol girdisi almak için `dart:io` kütüphanesini kullanarak kullanıcıdan veri alınır. Bu kütüphane, konsoldan giriş yapmak için gerekli araçları sağlar.
 
 **Basit Bir Konsol Girdisi Programı**

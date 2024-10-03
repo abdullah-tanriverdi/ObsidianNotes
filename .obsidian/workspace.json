@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e3cd07272cd7053a",
+        "id": "99102990d9fbb35c",
         "type": "tabs",
         "children": [
           {
-            "id": "a51f15fdb696c85f",
+            "id": "6b9a181e8c5463f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6aac377bd987c51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart Var Anahtar Kelimesi Nedir.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart Var Anahtar Kelimesi Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart Var Anahtar Kelimesi Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart Var Anahtar Kelimesi Nedir.md"
               }
             }
           }
@@ -147,34 +159,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a51f15fdb696c85f",
+  "active": "6aac377bd987c51f",
   "lastOpenFiles": [
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "TO DO.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart Var Anahtar Kelimesi Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart SDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Değişkenleri.md",
+    "Yazılım/Yazılım Jargonları/IDE Nedir.md",
+    "Yazılım/Yazılım Jargonları/Object Oriented Programming (OOP) Nedir.md",
+    "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
+    "Yazılım/Yazılım Jargonları/SDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/JIT Ve AOT.md",
+    "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
     "Yazılım/Programlama Dilleri/Dart/Dart İle Hello World Programı.md",
-    "Yazılım/Algoritma/Veri Yapıları/Big O Notasyonları/Big O Notasyonları.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android SDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Kotlin/Kotlin Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Dalvik Ve ART Nedir.md",
+    "Yazılım/Programlama Dilleri/Java/Java Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android NDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
     "Pasted image 20241002131828.png",
     "Pasted image 20241002131813.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/HelloWorld.jpg",
-    "Yazılım/Yazılım Jargonları/OOP.md",
-    "Yazılım/Yazılım Jargonları/Object Orineted Programming Nedir.md",
-    "Yazılım/Yazılım Jargonları/SDK Nedir.md",
     "Yazılım/Yazılım Jargonları",
-    "Class-Based.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Features.png",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
-    "Günlük Notlar.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Logo0.png",
     "Yazılım/Programlama Dilleri/Dart/Untitled",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/LarsBak_KasperLund.jpg",
@@ -186,7 +206,6 @@
     "Yazılım/Mobil Geliştirme/Ios İşletim Sistemi",
     "Yazılım/Mobil Geliştirme/Android Ve Ios Geliştirme Dart & Flutter",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin & Java",
-    "Yazılım/Framework/Flutter",
-    "Todo1.md"
+    "Yazılım/Framework/Flutter"
   ]
 }

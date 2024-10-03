@@ -11,7 +11,7 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
  <br>
  
 > [!tip]  İPUCU
->  Android NDK hakkında bilgi almak için bağlantıya tıkla [[AndroidNDK]]
+>  Android NDK hakkında bilgi almak için bağlantıya tıkla [[Android NDK Nedir]]
 <br>
     
 - **Dart (Flutter)**: Google tarafından geliştirilen **Flutter** framework'ü, Android (ve iOS) için çapraz platform uygulama geliştirmede kullanılan bir araçtır. Dart dilini kullanır ve tek bir kod tabanıyla hem Android hem de iOS uygulamaları geliştirmeyi sağlar. Bu, daha az maliyetle daha geniş bir kitleye ulaşmayı kolaylaştırır.
@@ -32,29 +32,26 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 >Android 5.0 Lollipop sürümünden itibaren varsayılan çalışma zamanı oldu. Dalvik'in yerini almak için geliştirilmiş ve performans iyileştirmelerine odaklanmıştır. ART, uygulamaların daha hızlı ve daha verimli çalışmasını sağlar.
 
 > [!tip] İPUCU
-> Java hakkında daha fazla bilgi için bu bağlantıya tıkla [[Todo0]]
-> Dalvik ve ART hakkında daha fazla bilgi için bu bağlantıya tıkla [[Todo1]]
+> Java hakkında daha fazla bilgi için bu bağlantıya tıkla [[Java Nedir]]
+> Dalvik ve ART hakkında daha fazla bilgi için bu bağlantıya tıkla [[Dalvik Ve ART Nedir]]
 
 <br>
 
 **Android'de Kotlin'in Rolü:**  2017 yılında Google tarafından Android için resmi programlama dili olarak duyurulmuştur. JetBrains tarafından geliştirilen bu modern dil, Java ile birlikte kullanılabilen, daha yalın ve esnek bir programlama dilidir. Kotlin, özellikle Android uygulama geliştirme sürecini daha verimli, güvenli hale getirmeyi amaçlar. Kotlin özellikle daha temiz ve güvenli kod yazmak için güzel bir seçenektir. Android ekosisteminde hızla yaygınlaşan Kotlin, Java ile birlikte uzun vadede Android geliştirme dünyasında büyük bir rol oynuyor.
 
 > [!tip] İPUCU
-> Kotlin hakkında daha fazla bilgi için bu bağlantıya tıkla [[Todo2]]
+> Kotlin hakkında daha fazla bilgi için bu bağlantıya tıkla [[Kotlin Nedir]]
 
 <br>
 
 **Android Studio:** Android uygulamaları geliştirmek için kullanılan resmi entegre geliştirme ortamı(IDE)'dir. Google tarafından geliştirilen Android Studio, Android SDK (Software Development Kit) ile entegre çalışır ve geliştiricilerle kapsamlı bir geliştirme ortamı sunar. 
-
-> [!tip] İPUCU
-> Android Studio hakkında daha fazla bilgi için bu bağlantıya tıkla [[Todo3]]
 
 <br>
 
 **Android SDK(Software Development Kit):** Android işletim sistemi için uygulama geliştirmek amacıyla kullanılan bir araç ve yazılım kütüphanesidir. SDK, Android uygulamaları oluşturmak, test etmek ve hata ayıklamak için gerekli olan tüm araçları içerir. Android geliştiricileri bu kit aracılığıyla uygulamaları yazabilir, çalıştırabilir ve optimize edebilir.
 
 > [!tip] İPUCU
-> Android SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[Todo4]]
+> Android SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[Android SDK Nedir]]
 
 ---
 
