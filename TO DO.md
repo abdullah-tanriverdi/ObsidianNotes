@@ -1,5 +1,4 @@
-dğişken tanımlama
-var
+
 Extension
 daartta assert yapısı
 darta pratik fonksiyon fat arrow
