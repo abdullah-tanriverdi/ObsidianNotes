@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md"
               }
             }
           }
@@ -160,32 +160,32 @@
   },
   "active": "6b9a181e8c5463f4",
   "lastOpenFiles": [
-    "Yazılım/Programlama Dilleri/Dart/Dart Null Safety Kavramı.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta Temel Veri Tipleri.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Exception Handling.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Konsol Girdisi.md",
-    "Yazılım/Programlama Dilleri/Dart/JIT Ve AOT.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta If-Else Ve Switch-Case Yapıları.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Sabitleri Ve Yorumları.md",
+    "Pasted image 20241003124429.jpg",
+    "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
+    "Yazılım/Programlama Dilleri/Dart/12-Dart Null Safety Kavramı.md",
+    "Yazılım/Programlama Dilleri/Dart/11-Dart Konsol Girdisi.md",
+    "Yazılım/Programlama Dilleri/Dart/10-Dart'ta For Ve While Döngüsü.md",
+    "Yazılım/Programlama Dilleri/Dart/9-Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/8-Dart Sabitleri Ve Yorumları.md",
+    "Yazılım/Programlama Dilleri/Dart/7-Dart Operatörleri.md",
+    "Yazılım/Programlama Dilleri/Dart/6-Dart'ta Temel Veri Tipleri.md",
+    "Yazılım/Programlama Dilleri/Dart/5-Dart İle Hello World Programı.md",
+    "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
+    "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
+    "Yazılım/Programlama Dilleri/Dart/1-Dart Nedir.md",
     "TO DO.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart'ta Var Anahtar Kelimesi Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta For Ve While Döngüsü.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Tarihi.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart SDK Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Operatörleri.md",
     "Yazılım/Programlama Dilleri/Dart/Dart Değişkenleri.md",
     "Yazılım/Yazılım Jargonları/IDE Nedir.md",
     "Yazılım/Yazılım Jargonları/Object Oriented Programming (OOP) Nedir.md",
     "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
     "Yazılım/Yazılım Jargonları/SDK Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart İle Hello World Programı.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android SDK Nedir.md",
     "Yazılım/Programlama Dilleri/Kotlin/Kotlin Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Dalvik Ve ART Nedir.md",
-    "Yazılım/Programlama Dilleri/Java/Java Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
     "Pasted image 20241002131828.png",
