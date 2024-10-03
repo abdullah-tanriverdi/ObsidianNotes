@@ -31,6 +31,6 @@ assert(5 < 3, '5 sayısı 3\'ten küçük olamaz.'); // Bu mesaj koşul yanlış
 
 
 
-
+ 
 
 
