@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96072465c5c79185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart'ta Tamamlancak Konu Başlıkları.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md"
+                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md"
               }
             }
           }
@@ -148,21 +160,26 @@
   },
   "active": "6b9a181e8c5463f4",
   "lastOpenFiles": [
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_String.jpg",
+    "Dart'ta Tamamlancak Konu Başlıkları.md",
+    "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
+    "Pasted image 20241003143103.png",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
+    "Yazılım/Programlama Dilleri/Dart/Dart'ta Matematik.md",
+    "Yazılım/Programlama Dilleri/Dart/8-Dart Sabitleri Ve Yorumları.md",
     "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_String.jpg",
     "Pasted image 20241003130308.jpg",
     "Pasted image 20241003130403.png",
     "Yazılım/Yazılım Jargonları/SDK Nedir.md",
     "Yazılım/Yazılım Jargonları/Object Oriented Programming (OOP) Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
-    "TO DO.md",
     "Pasted image 20241003124429.jpg",
     "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
     "Yazılım/Programlama Dilleri/Dart/12-Dart Null Safety Kavramı.md",
     "Yazılım/Programlama Dilleri/Dart/11-Dart Konsol Girdisi.md",
     "Yazılım/Programlama Dilleri/Dart/10-Dart'ta For Ve While Döngüsü.md",
     "Yazılım/Programlama Dilleri/Dart/9-Dart'ta If-Else Ve Switch-Case Yapıları.md",
-    "Yazılım/Programlama Dilleri/Dart/8-Dart Sabitleri Ve Yorumları.md",
     "Yazılım/Programlama Dilleri/Dart/7-Dart Operatörleri.md",
     "Yazılım/Programlama Dilleri/Dart/6-Dart'ta Temel Veri Tipleri.md",
     "Yazılım/Programlama Dilleri/Dart/5-Dart İle Hello World Programı.md",
@@ -175,15 +192,10 @@
     "Yazılım/Yazılım Jargonları/IDE Nedir.md",
     "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android SDK Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
     "Pasted image 20241002131828.png",
-    "Pasted image 20241002131813.png",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/HelloWorld.jpg",
     "Yazılım/Yazılım Jargonları",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Features.png",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
     "Yazılım/Programlama Dilleri/Dart/Untitled",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar",
