@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "99102990d9fbb35c",
+        "id": "45e74e0d1ccf832b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9a181e8c5463f4",
+            "id": "f1f0b44629eee52a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
-                "mode": "preview",
+                "file": "Language/English/Words/1- 100 Words.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96072465c5c79185",
+            "id": "b46bd28285d72d67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart'ta Tamamlancak Konu Başlıkları.md",
+                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 388.5
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -158,9 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b9a181e8c5463f4",
+  "active": "b46bd28285d72d67",
   "lastOpenFiles": [
-    "Dart'ta Tamamlancak Konu Başlıkları.md",
+    "Language/English/Words/1- 100 Words.md",
+    "Language/English/Dosyalar/Words.jpg",
+    "Language/English/Dosyalar",
+    "Language/English/Words",
+    "Language/English/Untitled.canvas",
+    "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
+    "Language/English",
+    "Language",
+    "Todo",
+    "Todo/Algoritma'da Tutulması Gereken Notların Konu Başlıkları.md",
+    "Untitled.md",
+    "Yazılım/Algoritma Analizi/Algoritma/Algoritma Nedir.md",
+    "Yazılım/Algoritma Analizi/Algoritma",
+    "Yazılım/Algoritma Analizi/Veri Yapıları/Big O Notasyonları.md",
+    "Prepare Daily To Do List.md",
     "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
     "Pasted image 20241003143103.png",
@@ -186,24 +201,11 @@
     "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
     "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
-    "Yazılım/Programlama Dilleri/Dart/1-Dart Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart'ta Var Anahtar Kelimesi Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart Değişkenleri.md",
-    "Yazılım/Yazılım Jargonları/IDE Nedir.md",
-    "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
-    "Pasted image 20241002131828.png",
     "Yazılım/Yazılım Jargonları",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
     "Yazılım/Programlama Dilleri/Dart/Untitled",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar",
-    "Yazılım/Programlama Dilleri/Dart/Dart Nedir",
-    "Yazılım/Mobil Geliştirme/Ios Geliştirme Swift & Objective C",
-    "Yazılım/Mobil Geliştirme/Ios İşletim Sistemi",
-    "Yazılım/Mobil Geliştirme/Android Ve Ios Geliştirme Dart & Flutter",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin & Java",
-    "Yazılım/Framework/Flutter"
+    "Yazılım/Programlama Dilleri/Dart/Dosyalar"
   ]
 }

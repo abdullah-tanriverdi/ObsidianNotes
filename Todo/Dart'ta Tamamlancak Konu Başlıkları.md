@@ -11,10 +11,8 @@ Klasör Diziin İşlemleri
 Dart Kodunu Exe koduna degıstırme
 Dartta Callback
 
-Fonksiyonlar
 Class
 Constructor
-Fat Arrow Functions
 Visibility Modifier
 Enumeration
 Extension
