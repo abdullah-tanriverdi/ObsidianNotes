@@ -1,6 +1,6 @@
 
 Extension
-darta pratik fonksiyon fat arrow
+
 dartta queue
 darta setter getter yapıları
  Initializers (Başlatıcılar)

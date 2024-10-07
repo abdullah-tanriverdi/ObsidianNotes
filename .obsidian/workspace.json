@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/English/Words/1- 100 Words.md",
-                "mode": "source",
+                "file": "Yazılım/Programlama Dilleri/Dart/17- Dart'ta Class Yapısı.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6f0cc614ba13db9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -98,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b46bd28285d72d67",
+  "active": "e6f0cc614ba13db9",
   "lastOpenFiles": [
+    "Yazılım/Programlama Dilleri/Dart/17- Dart'ta Class Yapısı.md",
+    "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
     "Language/English/Words/1- 100 Words.md",
+    "Pasted image 20241007112249.jpg",
+    "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
     "Language/English/Dosyalar/Words.jpg",
     "Language/English/Dosyalar",
     "Language/English/Words",
     "Language/English/Untitled.canvas",
-    "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
     "Language/English",
     "Language",
     "Todo",
@@ -176,7 +184,6 @@
     "Yazılım/Algoritma Analizi/Algoritma",
     "Yazılım/Algoritma Analizi/Veri Yapıları/Big O Notasyonları.md",
     "Prepare Daily To Do List.md",
-    "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
     "Pasted image 20241003143103.png",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
@@ -200,9 +207,7 @@
     "Yazılım/Programlama Dilleri/Dart/5-Dart İle Hello World Programı.md",
     "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
     "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_NullSafety.png",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_Operatörleri.png",
     "Yazılım/Yazılım Jargonları",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
     "Yazılım/Programlama Dilleri/Dart/Untitled",
