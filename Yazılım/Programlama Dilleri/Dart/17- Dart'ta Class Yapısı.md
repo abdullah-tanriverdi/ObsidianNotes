@@ -93,35 +93,6 @@ class Araba {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Abstract Sınıfı (Soyut):**  Soyut sınıflar, temel işlevselliği tanımlamak ve bazı metotların alt sınıflar tarafından gerçekleştirilmesini sağlamak için kullanılır.
 
 ```dart
