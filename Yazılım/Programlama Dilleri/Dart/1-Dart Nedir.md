@@ -29,5 +29,6 @@ Derlenmiş bir dildir ve iki tür derleme tekniği destekler:
 >Dart SDK hakkında bilgi almak için bağlantıya tıkla [[3-Dart SDK Nedir]]
 
 ![[Dart_Features.png]]
+***
 
 ***Abdullah TANRIVERDİ***
