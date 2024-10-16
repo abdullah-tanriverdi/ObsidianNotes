@@ -9,7 +9,7 @@ Jetpack Compose'ta `setContent`, uygulamanızın **Kullanıcı Arayüzü (UI)** 
 
 
 > [!tip] İPUCU
-> `@Composable` hakkında daha fazla bilgi için bağlantıya tıkla [[-@Composable Nedir]]
+> `@Composable` hakkında daha fazla bilgi için bağlantıya tıkla [[5-@Composable Anotasyonu Nedir]]
 
 
 `setContent` genellikle `Activity` veya `Fragment` içerisinde çağrılır ve UI'yı Compose ile tanımlamak için kullanılır.

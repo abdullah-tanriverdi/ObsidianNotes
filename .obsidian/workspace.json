@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md"
               }
             }
           }
@@ -162,18 +162,19 @@
   },
   "active": "d0e3b11217333a50",
   "lastOpenFiles": [
-    "Todo/Notlar.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Preview Anotasyonu Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+    "Todo/Notlar.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.jpg",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
     "Pasted image 20241016092447.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Android Yaşam Döngüsü.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Component Activity Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Composable Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
