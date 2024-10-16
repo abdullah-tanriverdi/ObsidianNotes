@@ -9,7 +9,7 @@ Jetpack Compose'ta `setContent`, uygulamanızın **Kullanıcı Arayüzü (UI)** 
 
 
 > [!tip] İPUCU
-> `@Composable` hakkında daha fazla bilgi için bağlantıya tıkla [[3-@Composable Nedir]]
+> `@Composable` hakkında daha fazla bilgi için bağlantıya tıkla [[-@Composable Nedir]]
 
 
 `setContent` genellikle `Activity` veya `Fragment` içerisinde çağrılır ve UI'yı Compose ile tanımlamak için kullanılır.
@@ -38,8 +38,8 @@ class MainActivity : ComponentActivity() {
 
 
 > [!tip] İPUCU
-> Component Activity hakkında daha fazla bilgi için bağlantıya tıkla [[Component Activity Nedir]]
-> Android  Yaşam Döngüsü hakkında daha fazla bilgi için bağlantıya tıkla [[Android Yaşam Döngüsü]]
+> Component Activity hakkında daha fazla bilgi için bağlantıya tıkla [[-Component Activity Nedir]]
+> Android  Yaşam Döngüsü hakkında daha fazla bilgi için bağlantıya tıkla [[-Android Yaşam Döngüsü]]
 
 ==**`setContent`'in Önemi**==
 - **XML Yerine Kotlin:** Geleneksel Android'de kullanıcı arayüzü XML dosyaları ile tanımlanır. Compose ile bu arayüz doğrudan Kotlin dilinde yazılır ve `setContent` fonksiyonu ile ekrana çizilir.

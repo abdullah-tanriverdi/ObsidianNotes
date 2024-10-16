@@ -11,8 +11,12 @@
             "id": "a746a192d2acaa42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md"
+              }
             }
           }
         ]
@@ -151,11 +160,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a746a192d2acaa42",
+  "active": "d0e3b11217333a50",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-@Composable Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Modifier Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
+    "Pasted image 20241016092447.png",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Android Yaşam Döngüsü.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Component Activity Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Composable Nedir.md",
     "Todo/Notlar.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
@@ -182,11 +197,6 @@
     "Yazılım/Programlama Dilleri/Kotlin/Kotlin Nedir.md",
     "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
     "Yazılım/Programlama Dilleri/Dart/17- Dart'ta Class Yapısı.md",
-    "Yazılım/Programlama Dilleri/Dart/18-Dart'ta Visibility Modifiers Yapısı.md",
-    "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
-    "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
-    "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
-    "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
     "Pasted image 20241007112249.jpg",
     "Language/English/Dosyalar/Words.jpg",
     "Language/English/Dosyalar",
@@ -197,7 +207,6 @@
     "Todo",
     "Yazılım/Algoritma Analizi/Algoritma",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
-    "Pasted image 20241003143103.png",
     "Yazılım/Yazılım Jargonları",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri"
   ]
