@@ -32,7 +32,7 @@ fun MySurfaceExample() {
 
 
 > [!tip] İPUCU
-> Modifier hakkında bilgi almak için bağlantıya tıkla [[-Modifier Nedir]]
+> Modifier hakkında bilgi almak için bağlantıya tıkla [[4-Modifier Nedir]]
 
 
 

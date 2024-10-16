@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md"
               }
             }
           }
@@ -162,16 +162,18 @@
   },
   "active": "d0e3b11217333a50",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
+    "Todo/Notlar.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.png",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.jpg",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Modifier Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
     "Pasted image 20241016092447.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Android Yaşam Döngüsü.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Component Activity Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Composable Nedir.md",
-    "Todo/Notlar.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
@@ -196,9 +198,7 @@
     "Todo/Untitled.md",
     "Yazılım/Programlama Dilleri/Kotlin/Kotlin Nedir.md",
     "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
-    "Yazılım/Programlama Dilleri/Dart/17- Dart'ta Class Yapısı.md",
     "Pasted image 20241007112249.jpg",
-    "Language/English/Dosyalar/Words.jpg",
     "Language/English/Dosyalar",
     "Language/English/Words",
     "Language/English/Untitled.canvas",
@@ -206,7 +206,6 @@
     "Language",
     "Todo",
     "Yazılım/Algoritma Analizi/Algoritma",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
     "Yazılım/Yazılım Jargonları",
     "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri"
   ]
