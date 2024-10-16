@@ -50,9 +50,8 @@ Dart dilinde JIT (Just-In-Time) ve AOT (Ahead-Of-Time) derleme, uygulamaların n
     
 - **Kullanım:** Uygulamanızı üretim ortamına dağıtmak için `flutter build apk` komutunu kullanarak AOT derlemesi ile bir APK dosyası oluşturursunuz. Bu işlem, uygulamanızın tüm kodunu makine koduna derler. Kullanıcılar uygulamayı yüklediklerinde, daha hızlı bir açılış ve daha akıcı bir deneyim yaşarlar.
   
-
-<iframe width="600" height="300" src="https://www.youtube.com/embed/DwRwtI29GwM" frameborder="0" allowfullscreen></iframe>
-
+  
+<iframe width="600" height="300" src="https://www.youtube.com/embed/8hqMK_lhWdE?start=59" frameborder="0" allowfullscreen></iframe>
 
 > [!note] KISACA
 > **JIT:** Geliştirme sürecinde, sürekli değişiklik yaparak hızlı geri bildirim almak için kullanılır.

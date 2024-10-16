@@ -1,5 +1,0 @@
-- [ ] Class-Based
-- [ ] OOP
-- [ ] Flutter Nedir
-- [ ] JIT ve AOT
-- [ ] 

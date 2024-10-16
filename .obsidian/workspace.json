@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -24,12 +23,8 @@
             "id": "a746a192d2acaa42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/Notlar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md"
               }
             }
           }
@@ -162,14 +157,22 @@
   },
   "active": "ac7aa0b107fcb1c3",
   "lastOpenFiles": [
+    "Todo/Notlar.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
+    "Yazılım/Algoritma Analizi/Algoritma/1-Algoritma Nedir.md",
+    "Yazılım/Algoritma Analizi/Algoritma/Dosyalar",
+    "Yazılım/Algoritma Analizi/Algoritma/Dosyalar/Algoritma.jpg",
+    "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/5-Dart İle Hello World Programı.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/JIT_AOT_Youtube_Image.jpg",
-    "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT.md",
     "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
     "Yazılım/Programlama Dilleri/Dart/1-Dart Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/JIT_AOT.jpg",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/JIT_AOT.jpg",
-    "Todo/Notlar.md",
     "Todo/Algoritma Notlar.md",
     "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
     "Yazılım/Yazılım Jargonları/IDE Nedir.md",
@@ -187,7 +190,6 @@
     "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
     "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
     "Todo/Algoritma'da Tutulması Gereken Notların Konu Başlıkları.md",
-    "Yazılım/Programlama Dilleri/Dart/Dart'ta Visibility Modifiers Yapısı.md",
     "Pasted image 20241007112249.jpg",
     "Language/English/Dosyalar/Words.jpg",
     "Language/English/Dosyalar",
@@ -196,17 +198,10 @@
     "Language/English",
     "Language",
     "Todo",
-    "Untitled.md",
-    "Yazılım/Algoritma Analizi/Algoritma/Algoritma Nedir.md",
     "Yazılım/Algoritma Analizi/Algoritma",
     "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
     "Pasted image 20241003143103.png",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Fonksiyon.png",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/Dart_String.jpg",
-    "Pasted image 20241003130308.jpg",
     "Yazılım/Yazılım Jargonları",
-    "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri",
-    "Yazılım/Programlama Dilleri/Dart/Untitled",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar"
+    "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri"
   ]
 }
