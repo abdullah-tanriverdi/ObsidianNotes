@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "d0e3b11217333a50",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Preview Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-@Preview Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
@@ -198,7 +199,6 @@
     "Yazılım/Programlama Dilleri/Java/Java Nedir.md",
     "Todo/Untitled.md",
     "Yazılım/Programlama Dilleri/Kotlin/Kotlin Nedir.md",
-    "Todo/Dart'ta Tamamlancak Konu Başlıkları.md",
     "Pasted image 20241007112249.jpg",
     "Language/English/Dosyalar",
     "Language/English/Words",
