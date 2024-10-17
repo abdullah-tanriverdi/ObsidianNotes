@@ -63,7 +63,7 @@ fun PreviewMyScreen() {
 
 
 > [!tip] İPUCU
-> `@Preview` anotasyonu hakkında daha fazla bilgi almak için bağlantıya tıkla [[-@Preview Anotasyonu Nedir]]
+> `@Preview` anotasyonu hakkında daha fazla bilgi almak için bağlantıya tıkla [[7-@Preview Anotasyonu Nedir]]
 
 
 ****
