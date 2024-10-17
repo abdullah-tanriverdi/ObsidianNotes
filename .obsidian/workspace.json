@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "a746a192d2acaa42",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/MaterialDesign_Android.png",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Lifecycle_Android.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
@@ -173,9 +176,7 @@
     "Todo/Notlar.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.jpg",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
     "Pasted image 20241016092447.png",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
@@ -198,7 +199,6 @@
     "Language/English/Words/1- 100 Words.md",
     "Yazılım/Programlama Dilleri/Java/Java Nedir.md",
     "Todo/Untitled.md",
-    "Pasted image 20241007112249.jpg",
     "Language/English/Dosyalar",
     "Language/English/Words",
     "Language/English/Untitled.canvas",

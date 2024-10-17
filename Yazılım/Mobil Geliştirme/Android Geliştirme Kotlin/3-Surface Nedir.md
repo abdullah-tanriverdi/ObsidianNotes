@@ -145,7 +145,7 @@ fun ButtonSurfaceExample() {
 
 
 > [!tip] İPUCU
-> Material Design hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Material Design Nedir]]
+> Material Design hakkında daha fazla bilgi almak için bağlantıya tıkla [[10-Material Design Nedir]]
 
 ***
 ***Abdullah TANRIVERDİ***
