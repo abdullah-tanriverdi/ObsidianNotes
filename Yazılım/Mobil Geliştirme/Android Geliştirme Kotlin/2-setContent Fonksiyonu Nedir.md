@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
 
 
 > [!tip] İPUCU
-> Component Activity hakkında daha fazla bilgi için bağlantıya tıkla [[-Component Activity Nedir]]
+> Component Activity hakkında daha fazla bilgi için bağlantıya tıkla [[8-Component Activity Nedir]]
 > Android  Yaşam Döngüsü hakkında daha fazla bilgi için bağlantıya tıkla [[-Android Yaşam Döngüsü]]
 
 ==**`setContent`'in Önemi**==

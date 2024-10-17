@@ -11,8 +11,12 @@
             "id": "a746a192d2acaa42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
-                "mode": "preview",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md"
               }
             }
           }
@@ -156,10 +160,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d0e3b11217333a50",
+  "active": "a746a192d2acaa42",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
@@ -171,7 +176,6 @@
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Material Design Nedir.md",
     "Pasted image 20241016092447.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Android Yaşam Döngüsü.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/-Component Activity Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
