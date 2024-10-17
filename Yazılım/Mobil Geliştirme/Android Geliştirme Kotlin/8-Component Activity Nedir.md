@@ -2,7 +2,7 @@
 
 `ComponentActivity`, Jetpack Compose'ta kullanılan temel bir **Activity** sınıfıdır ve Compose UI'yi entegre etmek için kullanılan ana yapı taşıdır. `Activity` Android uygulamalarında bir ekranı veya kullanıcı arayüzünü temsil eden bir bileşendir ve kullanıcılarla etkileşimde bulunur. Jetpack Compose'un Android UI mimarisi ile uyumlu bir şekilde çalışabilmesi için `ComponentActivity` özel olarak tasarlanmıştır.
 
-==**`ComponentActivity` ile Çalışma**==
+==**ComponentActivity ile Çalışma**==
 `ComponentActivity`, Compose'un UI elementlerini yerleştirmek için kullanılan temel sınıftır. Bu sınıfta yer alan `setContent {}` fonksiyonu sayesinde Compose içeriği doğrudan activity içine yerleştirilebilir.
 
 ```kotlin
@@ -35,7 +35,7 @@ fun Greeting(name: String) {
 
 
 
-==**`ComponentActivity` Kullanmanın Avantajları**==
+==**ComponentActivity Kullanmanın Avantajları**==
 - **XML Gereksinimini Ortadan Kaldırır**: Geleneksel Android UI geliştirme modelinde XML dosyalarını kullanarak layout (düzen) oluşturmak gerekirken, Jetpack Compose ve `ComponentActivity` ile tüm kullanıcı arayüzü Kotlin kodu ile tanımlanır.
     
 - **Daha Az Kod**: Compose ve `ComponentActivity`, kullanıcı arayüzü kodunu daha sade ve anlaşılır hale getirir. Geleneksel XML tabanlı UI'den daha az kod yazarak, aynı UI bileşenlerini oluşturabilirsiniz.

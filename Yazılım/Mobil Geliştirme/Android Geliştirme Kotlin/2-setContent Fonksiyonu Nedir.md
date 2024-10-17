@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
 
 > [!tip] İPUCU
 > Component Activity hakkında daha fazla bilgi için bağlantıya tıkla [[8-Component Activity Nedir]]
-> Android  Yaşam Döngüsü hakkında daha fazla bilgi için bağlantıya tıkla [[-Android Yaşam Döngüsü]]
+> Android  Yaşam Döngüsü hakkında daha fazla bilgi için bağlantıya tıkla [[9-Android Yaşam Döngüsü]]
 
 ==**`setContent`'in Önemi**==
 - **XML Yerine Kotlin:** Geleneksel Android'de kullanıcı arayüzü XML dosyaları ile tanımlanır. Compose ile bu arayüz doğrudan Kotlin dilinde yazılır ve `setContent` fonksiyonu ile ekrana çizilir.
