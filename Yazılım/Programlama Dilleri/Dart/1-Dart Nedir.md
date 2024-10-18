@@ -14,7 +14,7 @@ Dart, sözdizimsel olarak Java, C ve JavaScript'e oldukça benzerdir.
 Dart, Flutter framework'ü kullanarak mobil uygulama, modern web uygulamaları, masaüstü uygulamaları ve IoT geliştirmek için yaygın olarak kullanılan açık kaynaklı bir programlama dilidir. 
 
 >[!tip] İPUCU
->Flutter hakkında bilgi almak için bağlantıya tıkla [[Flutter Nedir]]
+>Flutter hakkında bilgi almak için bağlantıya tıkla [[1-Flutter Nedir]]
 
 <br>
 

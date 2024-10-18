@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
+                "file": "Yazılım/Framework/Flutter/1-Flutter Nedir.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1-Flutter Nedir"
             }
           },
           {
             "id": "d0e3b11217333a50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +68,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,14 +78,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -97,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -114,10 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,9 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -161,17 +172,24 @@
   },
   "active": "a746a192d2acaa42",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
+    "Yazılım/Framework/Flutter/1-Flutter Nedir.md",
+    "Yazılım/Framework/Flutter/Dosyalar/Flutter.png",
+    "Yazılım/Framework/Flutter/Dosyalar",
+    "Yazılım/Algoritma Analizi/Veri Yapıları/Big O Notasyonları.md",
+    "Yazılım/Programlama Dilleri/Dart/9-Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
+    "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/MaterialDesign_Android.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Lifecycle_Android.png",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
     "Todo/Notlar.md",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.png",
@@ -189,16 +207,9 @@
     "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
     "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
     "Yazılım/Programlama Dilleri/Dart/1-Dart Nedir.md",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/JIT_AOT.jpg",
-    "Yazılım/Programlama Dilleri/Dart/Dosyalar/JIT_AOT.jpg",
     "Todo/Algoritma Notlar.md",
     "Yazılım/Yazılım Jargonları/Class-Based Nedir.md",
     "Yazılım/Yazılım Jargonları/IDE Nedir.md",
-    "Yazılım/Yazılım Jargonları/Object Oriented Programming (OOP) Nedir.md",
-    "Yazılım/Yazılım Jargonları/SDK Nedir.md",
-    "Language/English/Words/1- 100 Words.md",
-    "Yazılım/Programlama Dilleri/Java/Java Nedir.md",
-    "Todo/Untitled.md",
     "Language/English/Dosyalar",
     "Language/English/Words",
     "Language/English/Untitled.canvas",
@@ -206,7 +217,6 @@
     "Language",
     "Todo",
     "Yazılım/Algoritma Analizi/Algoritma",
-    "Yazılım/Yazılım Jargonları",
-    "Yazılım/Programlama Dilleri/Programlama Dilleri Terimleri"
+    "Yazılım/Yazılım Jargonları"
   ]
 }
