@@ -2,7 +2,7 @@
 
 Dart dilindeki `assert` yapısı, bir koşulun doğru olup olmadığını kontrol etmek ve geliştirme sürecinde hataları yakalamak için kullanılan bir araçtır.
 
-**`assert` Nedir:**Geliştirme aşamasında belirli bir koşulun doğru olup olmadığını kontrol eden bir yapıdır. Eğer koşul **false** dönerse, program çalışmayı durdurur ve bir hata mesajı verir. Bu, programda beklenmedik durumları tespit etmenin ve bu durumlara erken müdahale etmenin bir yoludur. `assert` yalnızca **debug modunda** (geliştirme sırasında) çalışır. **Release modunda** `assert` satırları dikkate alınmaz. 
+**`assert` Nedir: **Geliştirme aşamasında belirli bir koşulun doğru olup olmadığını kontrol eden bir yapıdır. Eğer koşul **false** dönerse, program çalışmayı durdurur ve bir hata mesajı verir. Bu, programda beklenmedik durumları tespit etmenin ve bu durumlara erken müdahale etmenin bir yoludur. `assert` yalnızca **debug modunda** (geliştirme sırasında) çalışır. **Release modunda** `assert` satırları dikkate alınmaz. 
 
 ```dart
 void main() {

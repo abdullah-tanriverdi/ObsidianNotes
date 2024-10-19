@@ -24,7 +24,7 @@ Flutter, tamamen **widget** tabanlı bir mimariye sahiptir. Her şey bir widget 
 
 
 > [!tip] İPUCU
-> Stateful ve Stateless Widgetlar hakkında daha fazla bilgi almak için bağlantıya tıkla [[Stateful Ve Stateless Widgetler]]
+> Stateful ve Stateless Widgetlar hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Stateful Ve Stateless Widgetler]]
 
 
 
@@ -38,7 +38,7 @@ Flutter, arayüzleri doğrudan cihazın grafik motoruna (GPU) işleyen bir yapı
 
 
 > [!tip] İPUCU
-> Flutter'ın yüksek performansı hakkında daha fazla bilgi almak için bağlantıya tıkla [[Flutter Ve Yüksek Performans]]
+> Flutter'ın yüksek performansı hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Flutter Ve Yüksek Performans]]
 
 
 
@@ -55,7 +55,7 @@ Flutter’ın ana yapısı iki katmandan oluşur:
 
 
 > [!tip] İPUCU
-> Engine hakkında bilgi almak için [[Engine Nedir]]
+> Engine hakkında bilgi almak için [[-Flutter Engine Nedir]]
 >
 
 ,

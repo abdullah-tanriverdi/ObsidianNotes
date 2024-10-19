@@ -50,7 +50,7 @@ Flutter’ın tarihi, Google’ın daha geniş bir çerçevede mobil uygulama ge
 
 
 > [!tip] İPUCU
-> Material You hakkında daha fazla bilgi almak için bağlantıya tıkla [[Material You Nedir]]
+> Material You hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Material You Nedir]]
 
 
 ***

@@ -6,8 +6,8 @@ Dart, başlangıçta Google tarafından geliştirilen genel amaçlı, üst düze
 Dart, dinamik, class-based, object oriented programing programlama dilidir. 
 
 >[!tip] İPUCU
-> Class-Based hakkında  bilgi almak için bağlantıya tıkla [[Class-Based Nedir]]
-> Object Oriented Programing hakkında bilgi almak için bağlantıya tıkla [[Object Oriented Programming (OOP) Nedir]]
+> Class-Based hakkında  bilgi almak için bağlantıya tıkla [[-Class-Based Nedir]]
+> Object Oriented Programing hakkında bilgi almak için bağlantıya tıkla [[-Object Oriented Programming (OOP) Nedir]]
 
 Dart, sözdizimsel olarak Java, C ve JavaScript'e oldukça benzerdir.
 

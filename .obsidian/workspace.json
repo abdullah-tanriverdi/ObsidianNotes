@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a746a192d2acaa42",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Yazılım/Framework/Flutter/Dosyalar/Flutter_Google.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Flutter_Google"
-            }
-          },
-          {
-            "id": "d0e3b11217333a50",
+            "id": "9ab97379b620fc37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Framework/Flutter/2-Flutter Tarihi.md",
-                "mode": "source",
+                "file": "Yazılım/Framework/Flutter/3-Flutter Mimarisi.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Flutter Tarihi"
+              "title": "3-Flutter Mimarisi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,47 +159,47 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d0e3b11217333a50",
+  "active": "1498f70a7bb37c85",
   "lastOpenFiles": [
+    "Yazılım/Framework/Flutter/-Flutter Platform Channels.md",
+    "Yazılım/Framework/Flutter/3-Flutter Mimarisi.md",
+    "Yazılım/Framework/Flutter/-Flutter State Management.md",
+    "Yazılım/Yazılım Jargonları/-Event Loop Mekanizması Nedir.md",
+    "Yazılım/Framework/Flutter/-Foundation Library Nedir.md",
+    "-Resimler/Dart_NullSafety.png",
+    "-Resimler/Dart_Logo0.png",
+    "-Resimler/HelloWorld.jpg",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/-Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android SDK Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/Android NDK Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/10-Material Design Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/9-Android Yaşam Döngüsü.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/8-Component Activity Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/7-@Preview Anotasyonu Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/6-remember Ve mutableStateOf Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/5-@Composable Anotasyonu Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/4-Modifier Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/3-Surface Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/2-setContent Fonksiyonu Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
-    "Yazılım/Framework/Flutter/2-Flutter Tarihi.md",
-    "Yazılım/Framework/Flutter/1-Flutter Nedir.md",
-    "Engine Nedir.md",
-    "Flutter Ve Yüksek Performans.md",
-    "Stateful Ve Stateless Widgetler.md",
-    "Material You Nedir.md",
-    "Yazılım/Framework/Flutter/Dosyalar/Flutter_Google.jpg",
-    "Yazılım/Programlama Dilleri/Dart/2-Dart Tarihi.md",
-    "Yazılım/Programlama Dilleri/Dart/1-Dart Nedir.md",
-    "Yazılım/Framework/Flutter/Dosyalar/Flutter.png",
-    "Yazılım/Framework/Flutter/Dosyalar",
-    "Yazılım/Algoritma Analizi/Veri Yapıları/Big O Notasyonları.md",
-    "Yazılım/Programlama Dilleri/Dart/9-Dart'ta If-Else Ve Switch-Case Yapıları.md",
-    "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/-Dalvik Ve ART Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/-Android SDK Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android İşletim Sistemi/-Android NDK Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/18-Dart'ta Visibility Modifiers Yapısı.md",
+    "Yazılım/Programlama Dilleri/Dart/17- Dart'ta Class Yapısı.md",
+    "Yazılım/Programlama Dilleri/Dart/16-Dart'ta Fonksiyonlar.md",
+    "Yazılım/Programlama Dilleri/Dart/15-Dart String Yapısı.md",
     "Yazılım/Programlama Dilleri/Dart/14-Dart Assert Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/MaterialDesign_Android.png",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Lifecycle_Android.png",
-    "Todo/Notlar.md",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.png",
+    "Yazılım/Programlama Dilleri/Dart/13-Dart Exception Handling.md",
+    "Yazılım/Programlama Dilleri/Dart/12-Dart Null Safety Kavramı.md",
+    "Yazılım/Programlama Dilleri/Dart/11-Dart Konsol Girdisi.md",
+    "Yazılım/Programlama Dilleri/Dart/10-Dart'ta For Ve While Döngüsü.md",
+    "Yazılım/Programlama Dilleri/Dart/9-Dart'ta If-Else Ve Switch-Case Yapıları.md",
+    "Yazılım/Programlama Dilleri/Dart/8-Dart Sabitleri Ve Yorumları.md",
+    "Yazılım/Programlama Dilleri/Dart/7-Dart Operatörleri.md",
+    "Yazılım/Programlama Dilleri/Dart/6-Dart'ta Temel Veri Tipleri.md",
+    "Yazılım/Programlama Dilleri/Dart/5-Dart İle Hello World Programı.md",
+    "Yazılım/Programlama Dilleri/Dart/4-JIT Ve AOT Nedir.md",
+    "Yazılım/Programlama Dilleri/Dart/3-Dart SDK Nedir.md",
+    "-Resimler/Flutter_Google.jpg",
+    "-Resimler/Flutter.png",
+    "-Resimler",
+    "-Resimler/MaterialDesign_Android.png",
+    "-Resimler/Lifecycle_Android.png",
+    "-Resimler/Modifier.png",
     "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/Modifier.jpg",
     "Pasted image 20241016092447.png",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.png",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar",
-    "Yazılım/Mobil Geliştirme/Android Geliştirme Kotlin/Dosyalar/JetpackCompose.jpg",
-    "Yazılım/Algoritma Analizi/Algoritma/Dosyalar",
-    "Yazılım/Algoritma Analizi/Algoritma/Dosyalar/Algoritma.jpg",
+    "Dosyalar/Dosyalar",
+    "Dosyalar/Dosyalar",
     "Language/English/Dosyalar",
     "Language/English/Words",
     "Language/English/Untitled.canvas",
