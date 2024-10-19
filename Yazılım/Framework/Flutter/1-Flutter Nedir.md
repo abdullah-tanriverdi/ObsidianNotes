@@ -23,6 +23,12 @@ Flutter, tamamen **widget** tabanlı bir mimariye sahiptir. Her şey bir widget 
 - **Stateless Widget’lar**: Durum bilgisi taşımayan, statik bileşenlerdir. Sabit bir veriyle çalışan ve her etkileşimde yeniden oluşturulması gerekmeyen bileşenlerdir.
 
 
+> [!tip] İPUCU
+> Stateful ve Stateless Widgetlar hakkında daha fazla bilgi almak için bağlantıya tıkla [[Stateful Ve Stateless Widgetler]]
+
+
+
+
 **Hot Reload (Anında Yenileme)**
 Flutter’ın en önemli özelliklerinden biri **Hot Reload** fonksiyonudur. Bu özellik, kod değişikliklerini anında uygulamanın çalışmakta olduğu ekranda görebilmenizi sağlar. Hot Reload, geliştiricilere büyük bir hız ve esneklik kazandırarak, uygulamanın anlık geri bildirimlerle geliştirilmesine olanak tanır.
 
@@ -31,17 +37,28 @@ Flutter’ın en önemli özelliklerinden biri **Hot Reload** fonksiyonudur. Bu 
 Flutter, arayüzleri doğrudan cihazın grafik motoruna (GPU) işleyen bir yapıya sahiptir. Bu sayede Flutter ile geliştirilen uygulamalar, **yerel performansa yakın** bir hızla çalışır. iOS ve Android platformlarında yerel (native) bileşenleri kullanmak yerine, kendi widget'larını ve render sistemini kullanır, bu da platformlar arasında tutarlı bir deneyim sunar.
 
 
+> [!tip] İPUCU
+> Flutter'ın yüksek performansı hakkında daha fazla bilgi almak için bağlantıya tıkla [[Flutter Ve Yüksek Performans]]
+
+
+
 **Material Design ve Cupertino Desteği**
 Flutter, **Material Design** ve **Cupertino** tasarım bileşenlerini destekler. Bu, hem Android (Material Design) hem de iOS (Cupertino) için doğal görünümlü kullanıcı arayüzleri oluşturmanıza olanak tanır. Aynı kod tabanıyla, her iki platforma özgü tasarım rehberlerine uygun uygulamalar geliştirmek mümkündür.
 
 
 
 ==**Flutter’ın Çalışma Yapısı**==
-Flutter’ın ana yapısı iki katmandan oluşur:
 
+Flutter’ın ana yapısı iki katmandan oluşur:
 - **Framework**: Dart ile yazılmış ve widget temelli olan üst katmandır. Geliştiriciler bu katmanla doğrudan etkileşim halindedir. Burada temel UI bileşenleri, animasyonlar, jestler (gestures) ve Material/Cupertino tasarım öğeleri yer alır.
 - **Engine**: C++ ile yazılmış olan alt katmandır. Grafiklerin işlenmesi (rendering), düşük seviyeli grafik API’leri (Skia), metin oluşturma ve platformla etkileşimlerin yönetildiği kısımdır.
 
+
+> [!tip] İPUCU
+> Engine hakkında bilgi almak için [[Engine Nedir]]
+>
+
+,
 
 **Eklentiler ve Paketler**
 Flutter ekosisteminde, topluluk tarafından geliştirilen binlerce **paket** ve **eklenti** bulunur. Bu paketler, harici API'lerle entegrasyon, veritabanı yönetimi, bildirimler, harita hizmetleri ve çok daha fazlası için hazır çözümler sunar. Bu sayede geliştiriciler, birçok işlevi sıfırdan yazmak zorunda kalmadan, mevcut paketleri kullanarak hızlıca entegre edebilirler.
