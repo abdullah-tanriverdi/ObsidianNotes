@@ -40,7 +40,7 @@ print('Username: $username, Age: $age'); // Çıktı: Username: abdullah, Age: 2
 Hive, sadece temel veri türlerini değil, aynı zamanda özel sınıflarımı da depolama yeteneğine sahiptir. Bunun için, sınıfımıza `TypeAdapter` eklememiz gerekir. Örneğin, bir `User` sınıfımız varsa:
 
 > [!tip] İPUCU 
->  `TypeAdapter` hakkında bilgi almak için bağlantıya tıkla [[-Type Adapter]]
+>  `TypeAdapter` hakkında bilgi almak için bağlantıya tıkla [[8-Type Adapter Sınıfı]]
 
 
 ```dart
