@@ -1,4 +1,4 @@
-#Yazılım #Framework #Flutter 
+#Yazılım #MobilGeliştirme #MobilGeliştirmeFlutterDart 
 
 Flutter, yüksek performanslı ve güzel uygulamalar oluşturmak için güçlü bir mimariye sahiptir.
 

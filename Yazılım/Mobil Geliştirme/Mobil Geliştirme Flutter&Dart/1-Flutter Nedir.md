@@ -1,4 +1,4 @@
-#Yazılım #Framework #Flutter
+#Yazılım #MobilGeliştirme #MobilGeliştirmeFlutterDart 
 
 ![[Flutter.png|500]]
 **Flutter**, Google tarafından geliştirilen açık kaynaklı bir **UI (Kullanıcı Arayüzü) geliştirme kitidir (SDK)**. Mobil, web ve masaüstü platformlarında **tek bir kod tabanıyla** uygulamalar oluşturmanıza olanak tanır. 2017'de tanıtılan Flutter, yüksek performanslı ve modern kullanıcı arayüzleri geliştirmek isteyen yazılım geliştiriciler için güçlü bir araçtır. Flutter, kullanıcıya **yerel (native)** bir deneyim sunarken, geliştiricilere de esneklik ve hız kazandırır.

@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #MobilGeliştirmeFlutterDart
+#Yazılım #MobilGeliştirme #MobilGeliştirmeFlutterDart 
 
 Splash screen, uygulamanız açıldığında ilk olarak görünen ekranı temsil eder. Genellikle markanın logosu veya uygulamanın adı gibi içerikler barındırır.
 
@@ -71,7 +71,7 @@ flutter:
 ```
 ==**Görsel Ayarları**==
 
-![[asset_dimensions_ios_android11below.png]]![[asset_dimensions_ios_android12above.png]]
+![[Asset_Dimensions_Ios_Android11below.png]]![[Asset_Dimensions_Ios_Android12above.png]]
 
 ==**Kod Kısmı**==
 Gerekli kütüphane import edilmeli 
