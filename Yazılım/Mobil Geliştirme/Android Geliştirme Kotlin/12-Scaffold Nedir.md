@@ -58,7 +58,7 @@ fun PreviewMyScaffoldExample() {
 
 ```
 
- ![[Pasted image 20241023180025.png|250]]
+ ![[Scaffold.png|250]]
  
 - **paddingValues**: Scaffold, içeriği belirli bir boşlukla çevreler. Bu nedenle `content` fonksiyonuna bir `paddingValues` parametresi gönderir. Bu parametre, diğer bileşenlerin üstündeki AppBar veya altındaki BottomBar ile çakışmaması için gerekli olan boşluğu sağlar.
 - **Dinamik İçerik**: Scaffold, içeriğin dinamik olarak değişebilmesi için esneklik sunar. Farklı durumlarda farklı içerikler göstermek mümkündür.
