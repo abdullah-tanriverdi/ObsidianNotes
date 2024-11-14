@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #AndroidGeliştirmeKotlin 
+ #Yazılım #MobilGeliştirme #AndroidGeliştirmeKotlin 
 
 
 ![[MaterialDesign_Android.png]]
