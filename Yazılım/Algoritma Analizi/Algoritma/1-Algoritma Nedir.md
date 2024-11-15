@@ -1,5 +1,5 @@
 
-#Yazılım #AlgoritmaAnalizi #Algoritma 
+#Yazılım #Algoritma
 
 ![[Algoritma.jpg|500]]
 
@@ -23,6 +23,12 @@ Sorun Tanımla -> Algoritmayı Tasarla -> Algoritmayı Uygula -> Test / Hata Ay�
 
 ==**Posterior Analysis:**==
 "Posterior" "sonra" anlamına gelir. Bu nedenle Posterior analizi, algoritmanın uygulanmasından sonra kontrol edilmesi anlamına gelir. Bunda, algoritma herhangi bir programlama dilinde uygulanarak ve yürütülerek kontrol edilir. Bu analiz, doğruluk (doğru çıktıyı gösterip göstermediği/döndürmediği her olası giriş/giriş için), gereken alan, tüketilen zaman vb. hakkında gerçek ve gerçek analiz raporu elde etmeye yardımcı olur. Yani, derleyicinin diline ve kullanılan donanım türüne bağlıdır.
+
+==**Bir Algoritma nasıl ifade edilir?==
+
+1. **Doğal Dil:** Burada Algoritmayı doğal İngilizce dilinde ifade ediyoruz. Algoritmayı ondan anlamak çok zordur.
+2. **Akış Şeması:**  Burada Algoritmayı grafiksel/resimsel bir temsilini yaparak ifade ediyoruz. Doğal Dilden anlaşılması daha kolaydır.
+3. **Sahte Kod:**  Burada Algoritmayı, gerçek koda çok benzeyen sade İngilizce ile yazılmış açıklamalar ve bilgilendirici metinler biçiminde ifade ediyoruz ancak programlama dillerinin hiçbirinde olduğu gibi söz dizimi olmadığından bilgisayar tarafından derlenemez veya yorumlanamaz. Bir algoritmayı ifade etmenin en iyi yoludur çünkü okul düzeyinde bilgisi olan bir amatör tarafından bile anlaşılabilir.
 
 ****
 ***Abdullah TANRIVERDİ***
