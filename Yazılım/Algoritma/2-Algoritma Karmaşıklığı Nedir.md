@@ -17,6 +17,9 @@ Bir algoritmanın zaman karmaşıklığı, algoritmanın yürütülmesi ve sonuc
 Bir algoritmanın uzay karmaşıklığı, algoritmanın değişkenleri depolamak ve sonucu almak için ihtiyaç duyduğu bellek miktarını ifade eder. Bu, girdiler, geçici işlemler veya çıktılar için olabilir.
 
 - **Sabit Uzay** Bu, algoritmanın ihtiyaç duyduğu alanı ifade eder. Örneğin, giriş değişkenleri, çıkış değişkenleri, program boyutu, vb.
--  **Değişken Uzay** Bu, algoritmanın uygulanmasına bağlı olarak farklı olabilen alanı ifade eder. Örneğin, geçici değişkenler, dinamik bellek tahsisi, yineleme yığın alanı, vb. Bu nedenle herhangi bir algoritmanın uzay karmaşıklığı S(P) herhangi bir algoritmanın S(P)=C+SP(I)'dır, burada C sabit parçadır ve S(I) algoritmanın değişken parçasıdır ve bu da örnke özelliği I'e bağlıdır.
+-  **Değişken Uzay** Bu, algoritmanın uygulanmasına bağlı olarak farklı olabilen alanı ifade eder. Örneğin, geçici değişkenler, dinamik bellek tahsisi, yineleme yığın alanı, vb. Bu nedenle herhangi bir algoritmanın uzay karmaşıklığı S(P) herhangi bir algoritmanın S(P)=C+SP(I)'dır, burada C sabit parçadır ve S(I) algoritmanın değişken parçasıdır ve bu da örnek özelliği I'e bağlıdırk
+****
+
+***Abdullah TANRIVERDİ***
 
 

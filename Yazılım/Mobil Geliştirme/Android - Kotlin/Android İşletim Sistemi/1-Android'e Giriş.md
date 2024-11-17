@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #AndroidİşletimSistemi
+#Yazılım #MobilGeliştirme #Android-Kotlin #AndroidİşletimSistemi
 
 Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için belli başlı programlama dillerini kullanılabilir.
 
@@ -14,13 +14,13 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 >  Android NDK hakkında bilgi almak için bağlantıya tıkla [[-Android NDK Nedir]]
 <br>
     
-- **Dart (Flutter)**: Google tarafından geliştirilen **Flutter** framework'ü, Android (ve iOS) için çapraz platform uygulama geliştirmede kullanılan bir araçtır. Dart dilini kullanır ve tek bir kod tabanıyla hem Android hem de iOS uygulamaları geliştirmeyi sağlar. Bu, daha az maliyetle daha geniş bir kitleye ulaşmayı kolaylaştırır.
+- **Dart (Flutter)**: Google tarafından geliştirilen Flutter framework'ü, Android ve IOS için çapraz platform uygulama geliştirmede kullanılan bir araçtır. Dart dilini kullanır ve tek bir kod tabanıyla hem Android hem de IOS uygulamaları geliştirmeyi sağlar. Bu, daha az maliyetle daha geniş bir kitleye ulaşmayı kolaylaştırır.
     
-- **React Native**: Facebook tarafından geliştirilen bu framework, JavaScript kullanarak Android ve iOS için çapraz platform uygulamaları oluşturmanıza olanak tanır. **React Native** ile JavaScript, HTML ve CSS bilen geliştiriciler mobil uygulama geliştirmeye geçiş yapabilirler.
+- **JavaScript (React Native)**: Facebook tarafından geliştirilen framework, JavaScript kullanarak Android ve IOS için çapraz platform uygulamaları oluşturmanıza olanak tanır. React Native ile JavaScript, HTML ve CSS bilen geliştiriciler mobil uygulama geliştirmeye geçiş yapabilirler.
     
-- **Python**: Android uygulama geliştirmek için doğrudan desteklenmese de **Kivy** gibi kütüphaneler ile Python kullanarak Android uygulamaları geliştirmek mümkündür. Python, genellikle bilimsel hesaplamalar, yapay zeka ve hızlı prototipleme için tercih edilir.
+- **Python**: Android uygulama geliştirmek için doğrudan desteklenmese de Kivy gibi kütüphaneler ile Python kullanarak Android uygulamaları geliştirmek mümkündür. Python, genellikle bilimsel hesaplamalar, yapay zeka ve hızlı prototipleme için tercih edilir.
     
-- **C#**: Microsoft’un Xamarin teknolojisi aracılığıyla Android uygulamaları geliştirmek mümkündür. C# ile hem Android hem de iOS için çapraz platform uygulamaları geliştirebilirsiniz. Xamarin, .NET ekosisteminin avantajlarından yararlanır ve C# geliştiricilerine mobil uygulama dünyasına girmeyi kolaylaştırır.
+- **C#(Xamarin)**: Microsoft’un Xamarin teknolojisi aracılığıyla Android uygulamaları geliştirmek mümkündür. C# ile hem Android hem de IOS için çapraz platform uygulamaları geliştirebilirsiniz. Xamarin, .NET ekosisteminin avantajlarından yararlanır ve C# geliştiricilerine mobil uygulama dünyasına girmeyi kolaylaştırır.
 <br>
 
 **Android'de Java'nın Rolü:**  Android uygulama geliştirmede kullanılan en popüler programlama dillerinden biridir. Sun Microsystems tarafından 1995 yılında geliştirilen, daha sonra Oracle tarafından sahiplenilen, nesne yönelimli bir dildir. Java'nın özellikleri, Android'in temel yapı taşlarından biri olmasını sağlamıştır. Java, Android'de Dalvik ve Android Runtime(ART) sanal makineleri üzerinde çalışır. Android uygulamaları, Java kodu olarak yazılır ve bu kod, önce bytecode formatına dönüştürülür. Bytecode, Android' deki Dalvik ya da ART tarafından çalıştırılır, bu da Java'nın platform bağımsız olma özelliğinin Android cihazlarında uygulanmasını sağlar.
@@ -53,8 +53,11 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 > [!tip] İPUCU
 > Android SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[-Android SDK Nedir]]
 
----
+
 
 Özetle, Android işletim sistemi, açık kaynaklı yapısı, geniş geliştirici topluluğu ve kapsamlı araçlarıyla mobil dünyada güçlü bir konuma sahiptir. Java ve Kotlin gibi dillerin yanı sıra Android Studio ve Android SDK, geliştiricilere kullanıcı dostu ve yenilikçi uygulamalar oluşturma imkanı sunar. Dalvik VM’den ART’ye geçiş, Android’in performansını ve verimliliğini artırırken, bu platformun esnek yapısı farklı cihaz ve platformlara uyum sağlamayı mümkün kılar.
+
+---
+
 
 ***Abdullah TANRIVERDİ***
