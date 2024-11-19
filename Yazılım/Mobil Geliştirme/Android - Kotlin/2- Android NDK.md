@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android-Kotlin #AndroidİşletimSistemi
+#Yazılım #MobilGeliştirme #Android-Kotlin 
 ![[AndroidNdk.png|650]]
 
 ==**Android NDK (Native Development Kit)**==
@@ -41,7 +41,7 @@ Android uygulamaları geliştiren yazılımcılara, C ve C++ gibi düşük seviy
 > [!tip] İPUCU
 > JNI hakkında daha fazla bilgi almak için bağlantıya tıkla [[-JNI Nedir]]
 > Gradle hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Gradle Nedir]]
-> ADB hakkında daha fazla bilgi almak için bağlantıya tıkla [[-ADB Nedir]]
+> ADB hakkında daha fazla bilgi almak için bağlantıya tıkla [[3- ADB Nedir]]
 > 
 
 

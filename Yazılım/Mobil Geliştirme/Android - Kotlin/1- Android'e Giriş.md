@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android-Kotlin #AndroidİşletimSistemi
+#Yazılım #MobilGeliştirme #Android-Kotlin 
 
 Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için belli başlı programlama dillerini kullanılabilir.
 
@@ -11,7 +11,7 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
  <br>
  
 > [!tip]  İPUCU
->  Android NDK hakkında bilgi almak için bağlantıya tıkla [[-Android NDK Nedir]]
+>  Android NDK hakkında bilgi almak için bağlantıya tıkla [[2- Android NDK]]
 <br>
     
 - **Dart (Flutter)**: Google tarafından geliştirilen Flutter framework'ü, Android ve IOS için çapraz platform uygulama geliştirmede kullanılan bir araçtır. Dart dilini kullanır ve tek bir kod tabanıyla hem Android hem de IOS uygulamaları geliştirmeyi sağlar. Bu, daha az maliyetle daha geniş bir kitleye ulaşmayı kolaylaştırır.
