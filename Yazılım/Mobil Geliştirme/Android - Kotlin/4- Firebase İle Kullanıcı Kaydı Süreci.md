@@ -131,6 +131,7 @@ fun RegisterPage(authViewModel: AuthViewModel, navController: NavController) {
 ```
 
 <br>
+
 ==**Firebase Authentication'a Bağlantı Testi**==
 
 Firebase Authentication işlevselliğinin doğru çalıştığını test etmek için kayıt ve giriş işlemlerini gerçekleştirdiğinizde, Firebase Console üzerinden kullanıcılarınızın durumu ve işlem sonuçlarını görebilirsiniz.
