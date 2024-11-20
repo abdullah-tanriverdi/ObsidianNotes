@@ -20,7 +20,7 @@ Algoritma, bir sorunu çözmek veya bir hedefe ulaşmak için adım adım izlene
 **Algoritmalar Nasıl Çalışır?**
 - **Giriş:** Algoritma giriş verilerini alır.
 - **İşleme:** Algoritma, giriş verileri üzerinde bir dizi işlem gerçekleştirir.
-- **Çıktı:*** Algoritma istenilen çıktıyı üretir.
+- **Çıktı:**  Algoritma istenilen çıktıyı üretir.
 
 **Algoritma Nasıl Yazılır?**
 Sorun Tanımla -> Algoritmayı Tasarla -> Algoritmayı Uygula -> Test / Hata Ayıklama -> Analiz Et
