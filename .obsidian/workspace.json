@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin/2- Android NDK.md",
+                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin/5- MVVM ile Android’de Decoupled Yapılar.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Android NDK"
+              "title": "5- MVVM ile Android’de Decoupled Yapılar"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "047c8f535b6e6b79",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android - Kotlin/2- Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin/3- ADB Nedir.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin/4- Firebase İle Kullanıcı Kaydı Süreci.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin/5- MVVM ile Android’de Decoupled Yapılar.md",
@@ -218,7 +219,6 @@
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri/Dart",
     "Yazılım/Mobil Geliştirme/Android iOS - Dart",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin/2- Android NDK.md",
     "-Resimler/FirebaseLoginArchitecture.png",
     "-Resimler/firebase_android.png",
     "Yazılım/Programlama Dilleri/Python/Untitled.md",
