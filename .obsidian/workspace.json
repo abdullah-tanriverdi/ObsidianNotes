@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b567860c90dcc3e9",
+        "id": "3a54a8e4f23aac3f",
         "type": "tabs",
         "children": [
           {
-            "id": "07952995c8b09847",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "08b8580c69933a50",
+            "id": "f235650bde0924d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
-                "mode": "preview",
+                "file": "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Python Tarihçesi"
+              "title": "3- Python Mimarisi Ve Çalışma Prensibi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +160,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "08b8580c69933a50",
+  "active": "f235650bde0924d4",
   "lastOpenFiles": [
-    "To-Do/-Exception Handling.md",
+    "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+    "-Resimler/pythonmimarisi.jpg",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5- MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4- Firebase İle Kullanıcı Kaydı Süreci.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1- Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- ADB Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2- Android NDK.md",
     "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
+    "To-Do/-Exception Handling.md",
     "-Resimler/guıdo van rossum.jpg",
     "Pasted image 20241121005120.jpg",
     "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
@@ -186,12 +180,7 @@
     "imadges.jpg",
     "Yazılım/Algoritma/2-Algoritma Karmaşıklığı Nedir.md",
     "Yazılım/Algoritma/1-Algoritma Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- ADB Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2- Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1- Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4- Firebase İle Kullanıcı Kaydı Süreci.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5- MVVM ile Android’de Decoupled Yapılar.md",
-    "Yazılım/Ubuntu",
+    "Yazılım/Linux",
     "Yazılım/Docker",
     "-Resimler/mvvm2.jpg",
     "-Resimler/mvmm life cycle.jpg",
@@ -199,7 +188,6 @@
     "-Resimler/mvvm 1.jpg",
     "-Resimler/mvvm.jpg",
     "1_oW2OtsU4itFE-1njkwJ06w.webp",
-    "1_mlam6YhszJ51MYiBpzTfGQ.webp",
     "Yazılım/Programlama Dilleri/Java",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri/Dart",
@@ -219,8 +207,6 @@
     "To-Do/-GCC Ve CLANG Derleyiciler Nedir.md",
     "Yazılım0/Programlama Dilleri/Python/-Python Tarihçesi.md",
     "Yazılım0/Programlama Dilleri/Python/-Python Nedir.md",
-    "Yazılım0/Programlama Dilleri/Python/-Python Mimarisi.md",
-    "Yazılım0/Mobil Geliştirme/Android Geliştirme Kotlin/-Firebase ile Login.md",
     "Language/English/Untitled.canvas"
   ]
 }
