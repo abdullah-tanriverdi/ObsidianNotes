@@ -32,15 +32,13 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 >Android 5.0 Lollipop sürümünden itibaren varsayılan çalışma zamanı oldu. Dalvik'in yerini almak için geliştirilmiş ve performans iyileştirmelerine odaklanmıştır. ART, uygulamaların daha hızlı ve daha verimli çalışmasını sağlar.
 
 > [!tip] İPUCU
-> Java hakkında daha fazla bilgi için bu bağlantıya tıkla [[-Java Nedir]]
+> 
 > Dalvik ve ART hakkında daha fazla bilgi için bu bağlantıya tıkla [[-Dalvik Ve ART Nedir]]
 
 <br>
 
 **Android'de Kotlin'in Rolü:**  2017 yılında Google tarafından Android için resmi programlama dili olarak duyurulmuştur. JetBrains tarafından geliştirilen bu modern dil, Java ile birlikte kullanılabilen, daha yalın ve esnek bir programlama dilidir. Kotlin, özellikle Android uygulama geliştirme sürecini daha verimli, güvenli hale getirmeyi amaçlar. Kotlin özellikle daha temiz ve güvenli kod yazmak için güzel bir seçenektir. Android ekosisteminde hızla yaygınlaşan Kotlin, Java ile birlikte uzun vadede Android geliştirme dünyasında büyük bir rol oynuyor.
 
-> [!tip] İPUCU
-> Kotlin hakkında daha fazla bilgi için bu bağlantıya tıkla [[-Kotlin Nedir]]
 
 <br>
 

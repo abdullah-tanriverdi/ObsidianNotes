@@ -41,7 +41,7 @@ Android uygulamaları geliştiren yazılımcılara, C ve C++ gibi düşük seviy
 > [!tip] İPUCU
 > JNI hakkında daha fazla bilgi almak için bağlantıya tıkla [[-JNI Nedir]]
 > Gradle hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Gradle Nedir]]
-> ADB hakkında daha fazla bilgi almak için bağlantıya tıkla [[3- ADB Nedir]]
+> ADB hakkında daha fazla bilgi almak için bağlantıya tıkla [[- ADB Nedir]]
 > 
 
 

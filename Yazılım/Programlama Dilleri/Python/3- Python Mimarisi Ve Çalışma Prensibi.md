@@ -31,7 +31,7 @@ Python programları, **Python derleyicisi** tarafından işlenmeden önce **kayn
 
 > [!tldr] İPUCU
 > Source Code ( Kaynak Kodu ) hakkında bilgi almak için bağlantıya tıklayın [[-Source Code]]
-> CPython hakkında bilgi almak için bağlantıya tıklayın [[-CPython]]
+> CPython hakkında bilgi almak için bağlantıya tıklayın [[4- CPython Nedir]]
 
 <br>
 
@@ -40,7 +40,7 @@ Python programları, **Python derleyicisi** tarafından işlenmeden önce **kayn
 
 Python, derlenen bytecode’un çalıştırılmasından sorumlu olan **Python Virtual Machine** (PVM) kullanır. PVM, Python tarafından üretilen bytecode'u makine koduna çeviren bir sanal makinedir. PVM, aslında Python çalışma zamanında (runtime) kodun çalışmasını sağlar.
 
-- **PVM**'nin önemli bir özelliği, Python bytecode'unu doğrudan çalıştırarak platform bağımsızlığı sunmasıdır.
+- PVM'nin önemli bir özelliği, Python bytecode'unu doğrudan çalıştırarak platform bağımsızlığı sunmasıdır.
 - PVM, platforma göre farklılık gösterebilir, ancak bytecode’u her zaman aynı şekilde çalıştırır.
 
 <br>

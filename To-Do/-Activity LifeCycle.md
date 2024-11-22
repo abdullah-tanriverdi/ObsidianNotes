@@ -1,1 +1,0 @@
-![[lifecyclee.png]]![[lifecycle.png]]

@@ -3,7 +3,7 @@
 ![[JIT_AOT.jpg|500]]
 
 
-Dart dilinde JIT (Just-In-Time) ve AOT (Ahead-Of-Time) derleme, uygulamaların nasıl derlendiği ve çalıştırıldığı ile ilgili iki farklı yaklaşımdır.
+ JIT (Just-In-Time) ve AOT (Ahead-Of-Time) derleme, uygulamaların nasıl derlendiği ve çalıştırıldığı ile ilgili iki farklı yaklaşımdır.
 
 ==**JIT Derleme:**== JIT, uygulamanın çalıştığı anda derlendiği bir derleme yöntemidir. Uygulama kodu, çalıştırılmadan önce byte koduna çevrilir ve bu işlem uygulama çalışırken gerçekleşir.
 
