@@ -1,4 +1,4 @@
-#Yazılım #ProgramlamaDilleri #Dart 
+#Yazılım #YazılımJargonları
 
 ![[JIT_AOT.jpg|500]]
 

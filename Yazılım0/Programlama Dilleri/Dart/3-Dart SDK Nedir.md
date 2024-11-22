@@ -11,7 +11,7 @@ Dart SDK (Software Development Kit), Dart programlama dilini kullanarak uygulama
   
 
 > [!tip] İPUCU
-> AOT ve JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[4-JIT Ve AOT Nedir]]
+> AOT ve JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[1- JIT Ve AOT Nedir]]
 
 
 > [!info] BİLGİ

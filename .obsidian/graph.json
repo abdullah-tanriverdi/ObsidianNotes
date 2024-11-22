@@ -3,56 +3,20 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#MobilGeliştirme  ",
-      "color": {
-        "a": 1,
-        "rgb": 14627892
-      }
-    },
-    {
-      "query": "tag:#ProgramlamaDilleri  ",
-      "color": {
-        "a": 1,
-        "rgb": 1857184
-      }
-    },
-    {
-      "query": "tag:#Yazılım  ",
-      "color": {
-        "a": 1,
-        "rgb": 14532391
-      }
-    },
-    {
-      "query": "tag:#English  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749484,
-  "close": true
+  "scale": 0.22920135941749678,
+  "close": false
 }
