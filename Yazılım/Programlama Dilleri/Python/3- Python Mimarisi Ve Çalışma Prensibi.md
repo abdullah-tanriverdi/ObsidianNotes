@@ -30,7 +30,7 @@ Python programları, **Python derleyicisi** tarafından işlenmeden önce **kayn
 
 
 > [!tldr] İPUCU
-> Source Code ( Kaynak Kodu ) hakkında bilgi almak için bağlantıya tıklayın [[-Source Code]]
+> Source Code ( Kaynak Kodu ) hakkında bilgi almak için bağlantıya tıklayın [[3- Source Code]]
 > CPython hakkında bilgi almak için bağlantıya tıklayın [[4- CPython Nedir]]
 
 <br>

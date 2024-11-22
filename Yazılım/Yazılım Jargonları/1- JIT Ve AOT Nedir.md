@@ -49,7 +49,8 @@
 - **Açıklama:** Uygulamanız geliştirme aşamasını tamamladıktan sonra, artık son kullanıcılar için hazır hale getirilmesi gerekir. Bu noktada performans ve kullanıcı deneyimi önem kazanır. AOT derlemesi, uygulamanızın daha hızlı başlatılmasını ve daha az bellek kullanmasını sağlar.
     
 - **Kullanım:** Uygulamanızı üretim ortamına dağıtmak için `flutter build apk` komutunu kullanarak AOT derlemesi ile bir APK dosyası oluşturursunuz. Bu işlem, uygulamanızın tüm kodunu makine koduna derler. Kullanıcılar uygulamayı yüklediklerinde, daha hızlı bir açılış ve daha akıcı bir deneyim yaşarlar.
-  
+
+
   
 <iframe width="600" height="300" src="https://www.youtube.com/embed/8hqMK_lhWdE?start=59" frameborder="0" allowfullscreen></iframe>
 

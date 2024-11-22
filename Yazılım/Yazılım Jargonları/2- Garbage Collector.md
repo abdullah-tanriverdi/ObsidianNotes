@@ -30,6 +30,8 @@ Garbage Collector genellikle şu adımlarla çalışır:
 
 - Serbest bırakılan alan, yeni nesneler için kullanılabilir.
 
+<iframe width="600" height="300" src="https://www.youtube.com/embed/Z7egyIzL89Y?start=307" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ==**Garbage Collector Algoritmaları**==
 
@@ -51,6 +53,12 @@ GC, farklı algoritmalar kullanarak bellek yönetimini optimize eder:
     - Çöp olarak işaretlenen nesneler bellekten temizlenir.
 - **Avantaj:** Dairesel referans sorunlarını çözebilir.
 - **Dezavantaj:** Tarama işlemi maliyetlidir.
+
+<iframe width="600" height="300" src="https://www.youtube.com/embed/c32zXYAK7CI?start=59" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 **3. Kopyalama (Copying)**
 
