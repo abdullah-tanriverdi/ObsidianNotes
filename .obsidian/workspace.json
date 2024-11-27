@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notlar/5- Exception Handling.md",
+                "file": "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Fonksiyonlar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Exception Handling"
+              "title": "1- Veri Bilimi İçin Önemli Fonksiyonlar"
             }
           },
           {
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AndroidİşletimSistemi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "f15af8a17135e7d4",
@@ -183,14 +182,17 @@
   },
   "active": "cd9e268afc1399cb",
   "lastOpenFiles": [
-    "notlar/5- Exception Handling.md",
-    "-Resimler/excaptionhanling.png",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4- MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
+    "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Fonksiyonlar.md",
     "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
     "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+    "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
     "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
     "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
+    "Yazılım/Yazılım Jargonları/4- Exception Handling.md",
+    "-Resimler/excaptionhanling.png",
     "Yazılım/Yazılım Jargonları/3- Source Code.md",
-    "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
     "Yazılım/Yazılım Jargonları/2- Garbage Collector.md",
     "Yazılım/Algoritma/2-Algoritma Karmaşıklığı Nedir.md",
     "notlar/-Dalvik Ve ART Nedir.md",
@@ -202,10 +204,8 @@
     "-Resimler/cpython.png",
     "1_FWnKyD2iPcD4kf_U8tJgIw.webp",
     "Yazılım/Algoritma/1-Algoritma Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2- Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1- Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4- MVVM ile Android’de Decoupled Yapılar.md",
     "notlar/- ADB Nedir.md",
     "notlar/-Gradle Nedir.md",
     "notlar/-JNI Nedir.md",
