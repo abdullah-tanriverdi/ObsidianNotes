@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Docker/3- Docker Temel Kontroller.md",
+                "file": "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Docker Temel Kontroller"
+              "title": "4- Docker Temel Bileşenleri"
             }
           }
         ],
@@ -174,8 +174,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9cd6405dcf14810f",
+  "active": "1498f70a7bb37c85",
   "lastOpenFiles": [
+    "-Resimler/dockerdeamon.jpg",
+    "Yazılım/Docker/1- Docker Nedir.md",
+    "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
     "Yazılım/Docker/3- Docker Temel Kontroller.md",
     "Yazılım/Docker/2- Docker Kurulumu.md",
     "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
@@ -193,7 +196,6 @@
     "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
     "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
     "-Resimler/dockerdesktopwslubuntu.png",
-    "Yazılım/Docker/1- Docker Nedir.md",
     "-Resimler/docker.png",
     "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter/Untitled.md",
     "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
@@ -210,8 +212,6 @@
     "notlar/- ADB Nedir.md",
     "notlar/-Gradle Nedir.md",
     "notlar/-JNI Nedir.md",
-    "notlar/-GCC Ve CLANG Derleyiciler Nedir.md",
-    "notlar/-Android SDK Nedir.md",
     "notlar",
     "Yazılım/Linux/Ubuntu",
     "-Resimler/pythonmimarisi.jpg",
