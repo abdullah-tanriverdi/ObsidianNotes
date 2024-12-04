@@ -11,10 +11,14 @@
             "id": "f235650bde0924d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Docker/1- Docker Nedir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1- Docker Nedir"
             }
           },
           {
@@ -23,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Fonksiyonlar.md",
+                "file": "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Python Fonksiyonlar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Veri Bilimi İçin Önemli Fonksiyonlar"
+              "title": "1- Veri Bilimi İçin Önemli Python Fonksiyonlar"
             }
           },
           {
@@ -41,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,21 +183,28 @@
       "media-extended:Open media": false
     }
   },
-  "active": "cd9e268afc1399cb",
+  "active": "f235650bde0924d4",
   "lastOpenFiles": [
+    "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Python Fonksiyonlar.md",
+    "Yazılım/Docker/1- Docker Nedir.md",
+    "-Resimler/docker.png",
+    "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter/Untitled.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4- MVVM ile Android’de Decoupled Yapılar.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
-    "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Fonksiyonlar.md",
-    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
-    "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
-    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2- Android NDK.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1- Android'e Giriş.md",
+    "Yazılım/Algoritma/2-Algoritma Karmaşıklığı Nedir.md",
+    "Yazılım/Algoritma/1-Algoritma Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
     "Yazılım/Yazılım Jargonları/4- Exception Handling.md",
-    "-Resimler/excaptionhanling.png",
     "Yazılım/Yazılım Jargonları/3- Source Code.md",
     "Yazılım/Yazılım Jargonları/2- Garbage Collector.md",
-    "Yazılım/Algoritma/2-Algoritma Karmaşıklığı Nedir.md",
+    "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
+    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
+    "-Resimler/excaptionhanling.png",
     "notlar/-Dalvik Ve ART Nedir.md",
     "-Resimler/garbage collector.jpg",
     "Pasted image 20241122172130.png",
@@ -203,9 +213,6 @@
     "Yazılım/Yazılım Jargonları",
     "-Resimler/cpython.png",
     "1_FWnKyD2iPcD4kf_U8tJgIw.webp",
-    "Yazılım/Algoritma/1-Algoritma Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2- Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1- Android'e Giriş.md",
     "notlar/- ADB Nedir.md",
     "notlar/-Gradle Nedir.md",
     "notlar/-JNI Nedir.md",
@@ -216,18 +223,13 @@
     "Yazılım/Linux/Ubuntu",
     "-Resimler/pythonmimarisi.jpg",
     "-Resimler/guıdo van rossum.jpg",
-    "Pasted image 20241121005120.jpg",
-    "Yazılım0/Mobil Geliştirme/Android İşletim Sistemi/-Android'in Tarihi ve Gelişimi.md",
     "Yazılım/Linux",
     "Yazılım/Docker",
-    "mvmm mimarisi.md",
     "Yazılım/Programlama Dilleri/Java",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri/Dart",
     "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter",
     "Yazılım/Programlama Dilleri/Python",
-    "To-Do/-App Architecture.md",
-    "To-Do/-Activity LifeCycle.md",
     "Language/English/Untitled.canvas"
   ]
 }
