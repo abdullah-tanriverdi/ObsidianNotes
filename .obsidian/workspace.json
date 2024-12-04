@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Docker/5- Docker Images Nedir.md",
+                "file": "Yazılım/Docker/6- Docker Hub Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Docker Images Nedir"
+              "title": "6- Docker Hub Nedir"
             }
           }
         ],
@@ -174,10 +174,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9cd6405dcf14810f",
+  "active": "1498f70a7bb37c85",
   "lastOpenFiles": [
-    "Yazılım/Docker/3- Docker Temel Kontroller.md",
+    "-Resimler/dockerhub.png",
     "Yazılım/Docker/5- Docker Images Nedir.md",
+    "Yazılım/Docker/6- Docker Hub Nedir.md",
+    "Yazılım/Docker/3- Docker Temel Kontroller.md",
     "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
     "-Resimler/dockerdeamon.jpg",
     "Yazılım/Docker/1- Docker Nedir.md",
@@ -211,8 +213,6 @@
     "-Resimler/cpython.png",
     "1_FWnKyD2iPcD4kf_U8tJgIw.webp",
     "notlar/- ADB Nedir.md",
-    "notlar/-Gradle Nedir.md",
-    "notlar/-JNI Nedir.md",
     "notlar",
     "Yazılım/Linux/Ubuntu",
     "Yazılım/Linux",
