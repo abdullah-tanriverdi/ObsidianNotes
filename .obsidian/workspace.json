@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Docker/8- Docker Volume Nedir.md",
+                "file": "Yazılım/Docker/9- Docker Compose Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8- Docker Volume Nedir"
+              "title": "9- Docker Compose Nedir"
             }
           }
         ],
@@ -190,9 +190,11 @@
   },
   "active": "b51a9c9daeeb5207",
   "lastOpenFiles": [
+    "-Resimler/dockercompose.png",
+    "Yazılım/Docker/8- Docker Volume Nedir.md",
+    "Yazılım/Docker/9- Docker Compose Nedir.md",
     "-Resimler/dockervolumes.png",
     "Yazılım/Docker/7- Docker Container Nedir.md",
-    "Yazılım/Docker/8- Docker Volume Nedir.md",
     "-Resimler/dockercontainer.jpg",
     "Yazılım/Docker/6- Docker Hub Nedir.md",
     "Yazılım/Docker/5- Docker Images Nedir.md",
@@ -220,12 +222,10 @@
     "-Resimler/docker.png",
     "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter/Untitled.md",
     "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
-    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
     "-Resimler/excaptionhanling.png",
     "-Resimler/garbage collector.jpg",
     "Pasted image 20241122172130.png",
     "Pasted image 20241122172110.jpg",
-    "Pasted image 20241122172101.png",
     "Yazılım/Yazılım Jargonları",
     "notlar",
     "Yazılım/Linux/Ubuntu",
