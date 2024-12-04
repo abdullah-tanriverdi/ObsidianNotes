@@ -12,7 +12,6 @@ Eskiden bir uygulama geliştirmek ve çalıştırmak için farklı işletim sist
 - **Hızlı Başlangıç**: Konteynerler, sanal makinelerden çok daha hızlı başlar.
 - **Taşınabilirlik**: Bir konteyneri alıp farklı bir makinede, bulutta veya sunucuda çalıştırabilirsiniz.
 - **Kolay Yedekleme ve Yönetim**: Konteynerler, hızlıca durdurulup başlatılabilir ve kolayca yedeklenebilir.
-
 ==**Docker'ın Temel Kavramları**==
 
 - **Image (İmaj):**  
