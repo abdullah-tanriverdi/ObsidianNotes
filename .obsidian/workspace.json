@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
+                "file": "Yazılım/Docker/5- Docker Images Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- Docker Temel Bileşenleri"
+              "title": "5- Docker Images Nedir"
             }
           }
         ],
@@ -174,12 +174,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1498f70a7bb37c85",
+  "active": "9cd6405dcf14810f",
   "lastOpenFiles": [
+    "Yazılım/Docker/3- Docker Temel Kontroller.md",
+    "Yazılım/Docker/5- Docker Images Nedir.md",
+    "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
     "-Resimler/dockerdeamon.jpg",
     "Yazılım/Docker/1- Docker Nedir.md",
-    "Yazılım/Docker/4- Docker Temel Bileşenleri.md",
-    "Yazılım/Docker/3- Docker Temel Kontroller.md",
     "Yazılım/Docker/2- Docker Kurulumu.md",
     "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
     "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Python Fonksiyonlar.md",
@@ -214,7 +215,6 @@
     "notlar/-JNI Nedir.md",
     "notlar",
     "Yazılım/Linux/Ubuntu",
-    "-Resimler/pythonmimarisi.jpg",
     "Yazılım/Linux",
     "Yazılım/Docker",
     "Yazılım/Programlama Dilleri/Java",
