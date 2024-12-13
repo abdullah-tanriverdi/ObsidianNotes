@@ -99,5 +99,7 @@ services:
 Docker Compose, çoklu container’ları kolayca yönetmenizi sağlar ve uygulamanızın bağımlılıklarını, ağ yapılandırmalarını, veri kalıcılığını tek bir dosyada tanımlayarak büyük kolaylık yaratır. Birden fazla servisi aynı anda başlatma, durdurma ve yapılandırma işlemlerini tek bir komutla gerçekleştirmek Docker ile uygulama geliştirmeyi çok daha verimli hale getirir.
 
 
+indirme
+
 ---
 ***Abdullah TANRIVERDİ***
