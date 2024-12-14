@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GK/1- Starlink Ağı.md",
+                "file": "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Starlink Ağı"
+              "title": "Untitled"
             }
           },
           {
@@ -189,7 +189,9 @@
   },
   "active": "cd9e268afc1399cb",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5- AdMob İle Mobil Reklamcılık.md",
     "GK/1- Starlink Ağı.md",
+    "Yazılım/Admob",
     "Yazılım0/Programlama Dilleri/Java/-Java Nedir.md",
     "Yazılım/Docker/6- Docker Hub Nedir.md",
     "GK",
@@ -223,7 +225,6 @@
     "Yazılım/Algoritma/1-Algoritma Nedir.md",
     "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
     "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
     "-Resimler/dockerdesktopwslubuntu.png",
     "-Resimler/docker.png",
     "Yazılım/Yazılım Jargonları",
@@ -234,7 +235,6 @@
     "Yazılım/Programlama Dilleri/Java",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri/Dart",
-    "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter",
     "Language/English/Untitled.canvas"
   ]
 }
