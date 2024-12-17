@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #AndroidGeliştirmeKotlin 
+#Yazılım #MobilGeliştirme #Android-Kotlin 
 
 ![[Lifecycle_Android.png]]
 

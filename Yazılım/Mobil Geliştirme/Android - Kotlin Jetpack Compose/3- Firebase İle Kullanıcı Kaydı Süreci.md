@@ -1,7 +1,6 @@
 #Yazılım #MobilGeliştirme #Android-Kotlin 
 
 
-![[firebase_android.png|550]]
 ![[FirebaseLoginArchitecture.png]]
 
 Kullanıcıların e-posta ve parola ile kayıt olabilmesi için Firebase Authentication hizmetini kullanıyorum.
