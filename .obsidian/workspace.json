@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6- Navigation Component.md",
+                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7- UI Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Navigation Component"
+              "title": "7- UI Test"
             }
           },
           {
@@ -37,13 +37,18 @@
             "id": "e48e6421c07e0cad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10- Android Splash Screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10- Android Splash Screen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,19 +186,31 @@
       "media-extended:Open media": false
     }
   },
-  "active": "125d2d17c7a68a58",
+  "active": "1498f70a7bb37c85",
   "lastOpenFiles": [
+    "-Resimler/splashScreen.png",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10- Android Splash Screen.md",
+    "Yazılım/Programlama Dilleri/Python/9- Matplotlib.md",
+    "Yazılım/Programlama Dilleri/Python/8- Pandas.md",
+    "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
+    "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
+    "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
+    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
+    "Yazılım0/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7- UI Test.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8- Adaptive Layouts.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/9- Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6- Navigation Component.md",
     "-Resimler/Pasted image 20241217225403.png",
     "-Resimler/Pasted image 20241217225359.png",
     "-Resimler/Pasted image 20241217225351.png",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6- Navigation Component.md",
     "-Resimler/Pasted image 20241217230006.png",
     "-Resimler/nestedgraphs.png",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5- AdMob İle Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/9- Activity Lifecycle.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8- Adaptive Layouts.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7- UI Test.md",
     "Pasted image 20241216153833.png",
     "-Resimler/adaptivelayouts.png",
     "-Resimler/androidtest.png",
@@ -207,18 +224,7 @@
     "Yazılım/Yazılım Jargonları/2- Garbage Collector.md",
     "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
     "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Python Fonksiyonlar.md",
-    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
-    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
-    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
-    "Yazılım/Docker/1- Docker Nedir.md",
-    "Yazılım/Algoritma/1-Algoritma Nedir.md",
-    "Yazılım/Algoritma/2-Algoritma Karmaşıklığı Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android iOS - Dart Flutter/Untitled.md",
     "Yazılım/Admob",
-    "Yazılım0/Programlama Dilleri/Java/-Java Nedir.md",
-    "Yazılım/Docker/6- Docker Hub Nedir.md",
     "GK",
     "Yazılım/Yazılım Jargonları",
     "notlar",
