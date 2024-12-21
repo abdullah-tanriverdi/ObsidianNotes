@@ -1,5 +1,6 @@
-#Yazılım #VeriBilimi 
+#Yazılım #ProgramlamaDilleri  #Python 
 <br>
+
 
 ==**1-`range()`**==
 
