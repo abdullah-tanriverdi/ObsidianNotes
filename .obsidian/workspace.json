@@ -8,47 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "125d2d17c7a68a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7- UI Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7- UI Test"
-            }
-          },
-          {
-            "id": "f25bfd3363dd8564",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-Resimler/Pasted image 20241217225351.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241217225351"
-            }
-          },
-          {
             "id": "e48e6421c07e0cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
+                "file": "Yazılım/Programlama Dilleri/Python/8- Pandas.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8- Pandas"
+            }
+          },
+          {
+            "id": "afadf86bfdd3b577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "7- Numpy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +176,15 @@
   },
   "active": "e48e6421c07e0cad",
   "lastOpenFiles": [
+    "-Resimler/pandas.png",
+    "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
+    "-Resimler/numpy.png",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10- Android Splash Screen.md",
     "Yazılım0/Mobil Geliştirme/Android Geliştirme Kotlin/13-Android Splash Screen.md",
     "-Resimler/splashScreen.png",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
     "Yazılım/Programlama Dilleri/Python/9- Matplotlib.md",
     "Yazılım/Programlama Dilleri/Python/8- Pandas.md",
-    "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
     "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
     "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
     "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
@@ -217,14 +206,12 @@
     "-Resimler/adaptivelayouts.png",
     "-Resimler/androidtest.png",
     "GK/1- Starlink Ağı.md",
-    "Pasted image 20241216145219.png",
     "Pasted image 20241216145219.md",
     "Yazılım/Docker/9- Docker Compose Nedir.md",
     "Yazılım/Yazılım Jargonları/4- Exception Handling.md",
     "Yazılım/Yazılım Jargonları/3- Source Code.md",
     "Yazılım/Yazılım Jargonları/2- Garbage Collector.md",
     "Yazılım/Yazılım Jargonları/1- JIT Ve AOT Nedir.md",
-    "Yazılım/Veri Bilimi/1- Veri Bilimi İçin Önemli Python Fonksiyonlar.md",
     "Yazılım/Admob",
     "GK",
     "Yazılım/Yazılım Jargonları",

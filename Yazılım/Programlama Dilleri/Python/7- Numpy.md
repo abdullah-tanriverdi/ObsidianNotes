@@ -1,5 +1,8 @@
 #Yazılım #ProgramlamaDilleri #Python 
 
+![[numpy.png]]
+
+
 Numpy (Numerical Python), Python'da sayısal hesaplamalar yapmak için kullanılan bir kütüphanedir. Temel olarak büyük, çok boyutlu diziler(arrays) ve matrislerle çalışmayı kolaylaştıran yöntemler sunar.
 
 **Kullanım Alanları:**
