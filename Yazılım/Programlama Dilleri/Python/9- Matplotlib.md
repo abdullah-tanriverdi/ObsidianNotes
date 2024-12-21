@@ -186,4 +186,4 @@ plt.savefig("grafik.png", dpi=300, bbox_inches='tight')
 |`savefig()`|Grafiği dosyaya kaydeder|
 
 --- 
-***Abdullah TANRIVERDİ**
+***Abdullah TANRIVERDİ***

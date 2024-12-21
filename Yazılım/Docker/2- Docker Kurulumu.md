@@ -83,6 +83,7 @@ Docker’ın doğru şekilde çalıştığından emin olmak için terminal üzer
 Eğer her şey doğru bir şekilde kurulmuşsa, Docker başarılı bir şekilde çalıştığını belirten bir mesaj verecektir.
 
 
+
 <iframe width="600" height="300" src="https://www.youtube.com/embed/NhYVkwtDCBE?start=10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

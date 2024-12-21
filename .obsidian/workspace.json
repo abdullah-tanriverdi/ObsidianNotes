@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e48e6421c07e0cad",
+            "id": "afadf86bfdd3b577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Python/9- Matplotlib.md",
+                "file": "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Matplotlib"
+              "title": "6- Python Temelleri"
             }
           },
           {
-            "id": "afadf86bfdd3b577",
+            "id": "fee63b0c935c8bc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6- Python Temelleri"
             }
           }
         ]
@@ -170,34 +174,34 @@
       "media-extended:Open media": false
     }
   },
-  "active": "e48e6421c07e0cad",
+  "active": "afadf86bfdd3b577",
   "lastOpenFiles": [
-    "alt_grafikler.png",
-    "birden_fazla_grafik.png",
-    "dagilim_grafik.png",
-    "pasta_grafik 2.png",
-    "pasta_grafik 1.png",
-    "pasta_grafik.png",
-    "histogram.png",
-    "bar_grafik.png",
-    "cizgi_grafik_ozellestirilmis.png",
-    "basit_cizgi_grafik 1.png",
-    "basit_cizgi_grafik.png",
-    "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
-    "Yazılım/Programlama Dilleri/Python/9- Matplotlib.md",
-    "Yazılım/Programlama Dilleri/Python/8- Pandas.md",
+    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
     "Yazılım/Programlama Dilleri/Python/3- Python Mimarisi Ve Çalışma Prensibi.md",
+    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
+    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
+    "Yazılım/Programlama Dilleri/Python/9- Matplotlib.md",
+    "Yazılım/Docker/2- Docker Kurulumu.md",
+    "Yazılım/Programlama Dilleri/Python/8- Pandas.md",
+    "-Resimler/adaptivelayouts.png",
+    "-Resimler/alt_grafikler.png",
+    "-Resimler/birden_fazla_grafik.png",
+    "-Resimler/dagilim_grafik.png",
+    "-Resimler/pasta_grafik 2.png",
+    "-Resimler/pasta_grafik 1.png",
+    "-Resimler/pasta_grafik.png",
+    "-Resimler/histogram.png",
+    "-Resimler/bar_grafik.png",
+    "-Resimler/cizgi_grafik_ozellestirilmis.png",
+    "Yazılım/Programlama Dilleri/Python/7- Numpy.md",
     "Yazılım0/Programlama Dilleri/Python/-Python Nedir.md",
     "Yazılım0/Programlama Dilleri/Python/-Python Tarihçesi.md",
     "Yazılım0/Programlama Dilleri/Python/-Python Mimarisi.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10- Android Splash Screen.md",
     "Yazılım0/Mobil Geliştirme/Android Geliştirme Kotlin/13-Android Splash Screen.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3- Firebase İle Kullanıcı Kaydı Süreci.md",
-    "Yazılım/Programlama Dilleri/Python/6- Python Temelleri.md",
-    "Yazılım/Programlama Dilleri/Python/5- Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/4- CPython Nedir.md",
-    "Yazılım/Programlama Dilleri/Python/2- Python Tarihçesi.md",
-    "Yazılım/Programlama Dilleri/Python/1- Python Nedir.md",
     "Yazılım0/Mobil Geliştirme/Android Geliştirme Kotlin/1-Jetpack Compose Nedir.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7- UI Test.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8- Adaptive Layouts.md",
