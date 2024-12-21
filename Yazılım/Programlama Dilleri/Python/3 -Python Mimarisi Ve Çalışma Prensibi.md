@@ -30,8 +30,8 @@ Python programları, **Python derleyicisi** tarafından işlenmeden önce **kayn
 
 
 > [!tldr] İPUCU
-> Source Code ( Kaynak Kodu ) hakkında bilgi almak için bağlantıya tıklayın [[3- Source Code]]
-> CPython hakkında bilgi almak için bağlantıya tıklayın [[4- CPython Nedir]]
+> Source Code ( Kaynak Kodu ) hakkında bilgi almak için bağlantıya tıklayın [[3 -Source Code]]
+> CPython hakkında bilgi almak için bağlantıya tıklayın [[4 -CPython Nedir]]
 
 <br>
 
@@ -55,7 +55,7 @@ Python programlarının çalışması için, bir çalışma zamanı ortamı gere
 
 
 > [!tldr] İPUCU
-> Garbage Collector hakkına bilgi almak için bağlantıya tıkla [[2- Garbage Collector]]
+> Garbage Collector hakkına bilgi almak için bağlantıya tıkla [[2 -Garbage Collector]]
 
 
 <br>
@@ -144,7 +144,7 @@ Python’un işlem hızı, derlenen dillere (örneğin, C veya C++) kıyasla gen
 - Python'un **JIT (Just-In-Time) derleyicileri** gibi özellikler, çalışma zamanında Python kodunu optimize etmeye yardımcı olabilir.
 
 > [!tldr] İPUCU
-> JIT hakkında bilgi almak için bağlantıya tıkla [[1- JIT Ve AOT Nedir]]
+> JIT hakkında bilgi almak için bağlantıya tıkla [[1 -JIT Ve AOT Nedir]]
 
 
 

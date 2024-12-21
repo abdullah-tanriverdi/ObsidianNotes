@@ -25,7 +25,7 @@ Derlenmiş bir dildir ve iki tür derleme tekniği destekler:
 - **JIT (Just-In-Time):**  Bayt kodunu makine koduna (yerel kod) dönüştürür, ancak yalnızca gerekli olan kodu dönüştürür.
 
 >[!tip] İPUCU
->AOT ve JIT hakkında daha fazla bilgi için bağlantıya tıkla [[1- JIT Ve AOT Nedir]]
+>AOT ve JIT hakkında daha fazla bilgi için bağlantıya tıkla [[1 -JIT Ve AOT Nedir]]
 >Dart SDK hakkında bilgi almak için bağlantıya tıkla [[3-Dart SDK Nedir]]
 
 ![[Dart_Features.png]]
