@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/English/Words/1 -100 Words.md",
+                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/11 -Android App Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 -100 Words"
+              "title": "11 -Android App Architecture"
             }
           },
           {
@@ -175,6 +175,14 @@
   },
   "active": "afadf86bfdd3b577",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8 -Adaptive Layouts.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/11 -Android App Architecture.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7 -UI Test.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6 -Navigation Component.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/9 -Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10 -Android Splash Screen.md",
+    "Yazılım/Yazılım Jargonları/1 -JIT Ve AOT Nedir.md",
+    "Language/English/Words/1 -100 Words.md",
     "GK/1 -Starlink Ağı.md",
     "Yazılım/Algoritma/2 -Algoritma Karmaşıklığı Nedir.md",
     "Yazılım/Algoritma/1 -Algoritma Nedir.md",
@@ -187,20 +195,12 @@
     "Yazılım/Docker/3 -Docker Temel Kontroller.md",
     "Yazılım/Docker/2 -Docker Kurulumu.md",
     "Yazılım/Docker/1 -Docker Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10 -Android Splash Screen.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/9 -Activity Lifecycle.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8 -Adaptive Layouts.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7 -UI Test.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6 -Navigation Component.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5 -AdMob İle Mobil Reklamcılık.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4 -MVVM ile Android’de Decoupled Yapılar.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3 -Firebase İle Kullanıcı Kaydı Süreci.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2 -Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1 -Android'e Giriş.md",
-    "Yazılım/Yazılım Jargonları/1 -JIT Ve AOT Nedir.md",
     "Yazılım/Yazılım Jargonları/4 -Exception Handling.md",
-    "Yazılım/Yazılım Jargonları/3 -Source Code.md",
-    "Yazılım/Yazılım Jargonları/2 -Garbage Collector.md",
     "-Resimler/adaptivelayouts.png",
     "-Resimler/alt_grafikler.png",
     "-Resimler/birden_fazla_grafik.png",
