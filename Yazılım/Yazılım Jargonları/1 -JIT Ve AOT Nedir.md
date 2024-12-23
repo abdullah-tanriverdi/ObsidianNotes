@@ -54,6 +54,7 @@
   
 <iframe width="600" height="300" src="https://www.youtube.com/embed/8hqMK_lhWdE?start=59" frameborder="0" allowfullscreen></iframe>
 
+
 > [!note] KISACA
 > **JIT:** Geliştirme sürecinde, sürekli değişiklik yaparak hızlı geri bildirim almak için kullanılır.
 > **AOT:** Üretim ortamında, performansın kritik olduğu durumlarda, kullanıcı deneyimini artırmak için tercih edilir.

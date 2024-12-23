@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a54a8e4f23aac3f",
+        "id": "fa7ccd8da6e823a5",
         "type": "tabs",
         "children": [
           {
-            "id": "afadf86bfdd3b577",
+            "id": "e7fb7999cde2905e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/11 -Android App Architecture.md",
+                "file": "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/12 -Coil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 -Android App Architecture"
-            }
-          },
-          {
-            "id": "fee63b0c935c8bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Programlama Dilleri/Python/6 -Python Temelleri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 -Python Temelleri"
+              "title": "12 -Coil"
             }
           }
         ]
@@ -173,34 +159,36 @@
       "media-extended:Open media": false
     }
   },
-  "active": "afadf86bfdd3b577",
+  "active": "e7fb7999cde2905e",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/8 -Adaptive Layouts.md",
     "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/11 -Android App Architecture.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/7 -UI Test.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/6 -Navigation Component.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/9 -Activity Lifecycle.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/10 -Android Splash Screen.md",
-    "Yazılım/Yazılım Jargonları/1 -JIT Ve AOT Nedir.md",
-    "Language/English/Words/1 -100 Words.md",
-    "GK/1 -Starlink Ağı.md",
-    "Yazılım/Algoritma/2 -Algoritma Karmaşıklığı Nedir.md",
-    "Yazılım/Algoritma/1 -Algoritma Nedir.md",
-    "Yazılım/Docker/9 -Docker Compose Nedir.md",
-    "Yazılım/Docker/8 -Docker Volume Nedir.md",
-    "Yazılım/Docker/7 -Docker Container Nedir.md",
-    "Yazılım/Docker/6 -Docker Hub Nedir.md",
-    "Yazılım/Docker/5 -Docker Images Nedir.md",
-    "Yazılım/Docker/4 -Docker Temel Bileşenleri.md",
-    "Yazılım/Docker/3 -Docker Temel Kontroller.md",
-    "Yazılım/Docker/2 -Docker Kurulumu.md",
-    "Yazılım/Docker/1 -Docker Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/5 -AdMob İle Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/4 -MVVM ile Android’de Decoupled Yapılar.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/3 -Firebase İle Kullanıcı Kaydı Süreci.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/2 -Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/1 -Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android - Kotlin Jetpack Compose/12 -Coil.md",
+    "Yazılım/Programlama Dilleri/Kotlin/12 -Thread.md",
+    "notlar/- Server Client.md",
+    "notlar/-JSON.md",
+    "notlar/-API.md",
+    "Yazılım/Programlama Dilleri/Kotlin/11 -Retrofit.md",
+    "Yazılım/Programlama Dilleri/Kotlin/10 -Coroutines.md",
+    "Yazılım/Programlama Dilleri/Kotlin/9 -Kavramlar.md",
+    "Yazılım/Programlama Dilleri/Kotlin/8 -Kodlama Kurallı.md",
+    "Yazılım/Programlama Dilleri/Kotlin/7 -Idioms.md",
+    "Yazılım/Programlama Dilleri/Kotlin/6 -Basic Syntax.md",
     "Yazılım/Yazılım Jargonları/4 -Exception Handling.md",
+    "Yazılım/Yazılım Jargonları/3 -Source Code.md",
+    "Yazılım/Yazılım Jargonları/2 -Garbage Collector.md",
+    "Yazılım/Yazılım Jargonları/1 -JIT Ve AOT Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/10 -Bazı Python Fonksiyonlar.md",
+    "Yazılım/Programlama Dilleri/Python/9 -Matplotlib.md",
+    "Yazılım/Programlama Dilleri/Python/8 -Pandas.md",
+    "Yazılım/Programlama Dilleri/Python/7 -Numpy.md",
+    "Yazılım/Programlama Dilleri/Python/6 -Python Temelleri.md",
+    "Yazılım/Programlama Dilleri/Python/5 -Python'da Modüler , Paketler Ve Kütüphaneler Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/4 -CPython Nedir.md",
+    "Yazılım/Programlama Dilleri/Python/3 -Python Mimarisi Ve Çalışma Prensibi.md",
+    "Yazılım/Programlama Dilleri/Python/2 -Python Tarihçesi.md",
+    "Yazılım/Programlama Dilleri/Python/1 -Python Nedir.md",
+    "-Resimler/Pasted image 20241221165501.png",
+    "Yazılım/Programlama Dilleri/Kotlin",
     "-Resimler/adaptivelayouts.png",
     "-Resimler/alt_grafikler.png",
     "-Resimler/birden_fazla_grafik.png",
@@ -210,7 +198,6 @@
     "-Resimler/pasta_grafik.png",
     "-Resimler/histogram.png",
     "-Resimler/bar_grafik.png",
-    "-Resimler/cizgi_grafik_ozellestirilmis.png",
     "Yazılım/Admob",
     "GK",
     "Yazılım/Yazılım Jargonları",
@@ -220,7 +207,6 @@
     "Yazılım/Docker",
     "Yazılım/Programlama Dilleri/Java",
     "Yazılım/Programlama Dilleri/Kotlin",
-    "Yazılım/Programlama Dilleri/Dart",
     "Language/English/Untitled.canvas"
   ]
 }

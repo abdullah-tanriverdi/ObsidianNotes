@@ -5,6 +5,11 @@
 
 Kullanıcıların e-posta ve parola ile kayıt olabilmesi için Firebase Authentication hizmetini kullanıyorum.
 
+
+> [!tip] İPUCU
+> Firebase hakkında daha fazla bilgi almak için bağlantıya tıkla [[-Firebase Nedir]]
+
+
 <br>
 
 - ==**Firebase Projesi Oluşturma**==
